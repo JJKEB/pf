@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on portfolio</title>
-    <link>/pf/categories/</link>
+    <link>/categories/</link>
     <description>Recent content in Categories on portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ko</language><atom:link href="/pf/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>ko</language><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Portfolios on portfolio</title>
-    <link>/pf/portfolio/</link>
+    <link>/portfolio/</link>
     <description>Recent content in Portfolios on portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
-    <lastBuildDate>Thu, 05 Nov 2020 19:56:17 +0530</lastBuildDate><atom:link href="/pf/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 05 Nov 2020 19:56:17 +0530</lastBuildDate><atom:link href="/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bnpco 쇼핑몰</title>
-      <link>/pf/portfolio/work33/</link>
+      <link>/portfolio/work33/</link>
       <pubDate>Thu, 05 Nov 2020 19:56:17 +0530</pubDate>
       
-      <guid>/pf/portfolio/work33/</guid>
+      <guid>/portfolio/work33/</guid>
       <description>&lt;p&gt;담당파트 - 템플릿 반응형 웹 적용&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.bnpcomall.com&#34; target=&#34;_blank&#34;&gt;bnpcomall.com&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;고도몰 쇼핑몰 솔루션&lt;/p&gt;
@@ -21,10 +21,10 @@
     
     <item>
       <title>Dartking 다트킹</title>
-      <link>/pf/portfolio/work35/</link>
+      <link>/portfolio/work35/</link>
       <pubDate>Thu, 05 Nov 2020 19:56:17 +0530</pubDate>
       
-      <guid>/pf/portfolio/work35/</guid>
+      <guid>/portfolio/work35/</guid>
       <description>&lt;p&gt;담당파트 - 마크업, 스타일, 스크립트&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://www.idartsking.com&#34; target=&#34;_blank&#34;&gt;idartsking.com&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Responsive Web&lt;/p&gt;</description>
@@ -32,10 +32,10 @@
     
     <item>
       <title>onionad</title>
-      <link>/pf/portfolio/work31/</link>
+      <link>/portfolio/work31/</link>
       <pubDate>Thu, 05 Nov 2020 19:56:17 +0530</pubDate>
       
-      <guid>/pf/portfolio/work31/</guid>
+      <guid>/portfolio/work31/</guid>
       <description>&lt;p&gt;담당파트 - 마크업, 스타일, 스크립트&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://onionad.com/owner/&#34; target=&#34;_blank&#34;&gt;onionad.com&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Responsive Web&lt;/p&gt;</description>
@@ -43,10 +43,10 @@
     
     <item>
       <title>㈜브라더푸드시스템</title>
-      <link>/pf/portfolio/work32/</link>
+      <link>/portfolio/work32/</link>
       <pubDate>Thu, 05 Nov 2020 19:56:17 +0530</pubDate>
       
-      <guid>/pf/portfolio/work32/</guid>
+      <guid>/portfolio/work32/</guid>
       <description>&lt;p&gt;담당파트 - 마크업, 스타일, 스크립트&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://brotherfoodsystem.com&#34; target=&#34;_blank&#34;&gt;brotherfoodsystem.com&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Responsive Web&lt;/p&gt;</description>
@@ -54,10 +54,10 @@
     
     <item>
       <title>Brand DENTEK</title>
-      <link>/pf/portfolio/work28/</link>
+      <link>/portfolio/work28/</link>
       <pubDate>Thu, 05 Nov 2020 19:56:17 +0530</pubDate>
       
-      <guid>/pf/portfolio/work28/</guid>
+      <guid>/portfolio/work28/</guid>
       <description>&lt;p&gt;담당파트 - 마크업, 스타일, 스크립트&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://www.dentekkorea.co.kr&#34; target=&#34;_blank&#34;&gt;dentekkorea.co.kr&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Responsive Web&lt;/p&gt;</description>
@@ -65,10 +65,10 @@
     
     <item>
       <title>Brand Orabrush</title>
-      <link>/pf/portfolio/work29/</link>
+      <link>/portfolio/work29/</link>
       <pubDate>Thu, 05 Nov 2020 19:56:17 +0530</pubDate>
       
-      <guid>/pf/portfolio/work29/</guid>
+      <guid>/portfolio/work29/</guid>
       <description>&lt;p&gt;담당파트 - 마크업, 스타일, 스크립트&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://www.orabrush.co.kr&#34; target=&#34;_blank&#34;&gt;orabrush.co.kr&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Responsive Web&lt;/p&gt;</description>
@@ -76,10 +76,10 @@
     
     <item>
       <title>Brand RealSHADES</title>
-      <link>/pf/portfolio/work27/</link>
+      <link>/portfolio/work27/</link>
       <pubDate>Thu, 05 Nov 2020 19:56:17 +0530</pubDate>
       
-      <guid>/pf/portfolio/work27/</guid>
+      <guid>/portfolio/work27/</guid>
       <description>&lt;p&gt;담당파트 - 마크업, 스타일, 스크립트&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://www.realkidskorea.co.kr&#34; target=&#34;_blank&#34;&gt;realkidskorea.co.kr&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Responsive Web&lt;/p&gt;</description>
@@ -87,10 +87,10 @@
     
     <item>
       <title>CNL Korea</title>
-      <link>/pf/portfolio/work30/</link>
+      <link>/portfolio/work30/</link>
       <pubDate>Thu, 05 Nov 2020 19:56:17 +0530</pubDate>
       
-      <guid>/pf/portfolio/work30/</guid>
+      <guid>/portfolio/work30/</guid>
       <description>&lt;p&gt;담당파트 - 마크업, 스타일, 스크립트&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://www.cnlint.co.kr&#34; target=&#34;_blank&#34;&gt;cnlint.co.kr&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Responsive Web&lt;/p&gt;</description>
@@ -98,10 +98,10 @@
     
     <item>
       <title>LION9 쇼핑몰</title>
-      <link>/pf/portfolio/work34/</link>
+      <link>/portfolio/work34/</link>
       <pubDate>Thu, 05 Nov 2020 19:56:17 +0530</pubDate>
       
-      <guid>/pf/portfolio/work34/</guid>
+      <guid>/portfolio/work34/</guid>
       <description>&lt;p&gt;담당파트 - 템플릿 CUSTOMIZE&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.lion9.co.kr&#34; target=&#34;_blank&#34;&gt;lion9.co.kr&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;고도몰 쇼핑몰 솔루션&lt;/p&gt;
@@ -110,10 +110,10 @@
     
     <item>
       <title>알케이알</title>
-      <link>/pf/portfolio/work25/</link>
+      <link>/portfolio/work25/</link>
       <pubDate>Thu, 05 Nov 2020 19:56:17 +0530</pubDate>
       
-      <guid>/pf/portfolio/work25/</guid>
+      <guid>/portfolio/work25/</guid>
       <description>&lt;p&gt;담당파트 - 마크업, 스타일, 스크립트&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://rkrcorp.co.kr&#34; target=&#34;_blank&#34;&gt;rkrcorp.co.kr&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Responsive Web&lt;/p&gt;</description>
@@ -121,10 +121,10 @@
     
     <item>
       <title>알케이알 SNS</title>
-      <link>/pf/portfolio/work26/</link>
+      <link>/portfolio/work26/</link>
       <pubDate>Thu, 05 Nov 2020 19:56:17 +0530</pubDate>
       
-      <guid>/pf/portfolio/work26/</guid>
+      <guid>/portfolio/work26/</guid>
       <description>&lt;p&gt;담당파트 - 마크업, 스타일, 스크립트&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://rookiisns.com&#34; target=&#34;_blank&#34;&gt;rookiisns.com&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Responsive Web&lt;/p&gt;</description>
@@ -132,50 +132,50 @@
     
     <item>
       <title>ageLOC me</title>
-      <link>/pf/portfolio/work21/</link>
+      <link>/portfolio/work21/</link>
       <pubDate>Thu, 05 Nov 2020 19:56:17 +0530</pubDate>
       
-      <guid>/pf/portfolio/work21/</guid>
+      <guid>/portfolio/work21/</guid>
       <description>&lt;p&gt;담당파트 - 마크업, 스타일, 스크립트&lt;/p&gt;
 &lt;p&gt;Web&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>ageLOC me Tag 이벤트</title>
-      <link>/pf/portfolio/work23/</link>
+      <link>/portfolio/work23/</link>
       <pubDate>Thu, 05 Nov 2020 19:56:17 +0530</pubDate>
       
-      <guid>/pf/portfolio/work23/</guid>
+      <guid>/portfolio/work23/</guid>
       <description>&lt;p&gt;담당파트 - 마크업, 스타일, 스크립트&lt;/p&gt;
 &lt;p&gt;Responsive Web&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>ageLOC me 공유 이벤트 1 ~ 4차</title>
-      <link>/pf/portfolio/work22/</link>
+      <link>/portfolio/work22/</link>
       <pubDate>Thu, 05 Nov 2020 19:56:17 +0530</pubDate>
       
-      <guid>/pf/portfolio/work22/</guid>
+      <guid>/portfolio/work22/</guid>
       <description>&lt;p&gt;담당파트 - 마크업, 스타일, 스크립트&lt;/p&gt;
 &lt;p&gt;Responsive Web&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>BIUM (비움)</title>
-      <link>/pf/portfolio/work14/</link>
+      <link>/portfolio/work14/</link>
       <pubDate>Thu, 05 Nov 2020 19:56:17 +0530</pubDate>
       
-      <guid>/pf/portfolio/work14/</guid>
+      <guid>/portfolio/work14/</guid>
       <description>&lt;p&gt;담당파트 - 마크업, 스타일, 스크립트&lt;/p&gt;
 &lt;p&gt;Responsive Web&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>GADAM Associates</title>
-      <link>/pf/portfolio/work24/</link>
+      <link>/portfolio/work24/</link>
       <pubDate>Thu, 05 Nov 2020 19:56:17 +0530</pubDate>
       
-      <guid>/pf/portfolio/work24/</guid>
+      <guid>/portfolio/work24/</guid>
       <description>&lt;p&gt;담당파트 - 마크업, 스타일, 스크립트&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://gadamassociates.com&#34; target=&#34;_blank&#34;&gt;gadamassociates.com&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Responsive Web&lt;/p&gt;</description>
@@ -183,180 +183,180 @@
     
     <item>
       <title>GGIO2 틀린그림찾기 이벤트</title>
-      <link>/pf/portfolio/work17/</link>
+      <link>/portfolio/work17/</link>
       <pubDate>Thu, 05 Nov 2020 19:56:17 +0530</pubDate>
       
-      <guid>/pf/portfolio/work17/</guid>
+      <guid>/portfolio/work17/</guid>
       <description>&lt;p&gt;담당파트 - 마크업, 스타일, 스크립트&lt;/p&gt;
 &lt;p&gt;Responsive Web&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>LG Chem</title>
-      <link>/pf/portfolio/work15/</link>
+      <link>/portfolio/work15/</link>
       <pubDate>Thu, 05 Nov 2020 19:56:17 +0530</pubDate>
       
-      <guid>/pf/portfolio/work15/</guid>
+      <guid>/portfolio/work15/</guid>
       <description>&lt;p&gt;담당파트 - 마크업, 스타일, 스크립트&lt;/p&gt;
 &lt;p&gt;Responsive Web&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>크라운산도 영상이벤트</title>
-      <link>/pf/portfolio/work18/</link>
+      <link>/portfolio/work18/</link>
       <pubDate>Thu, 05 Nov 2020 19:56:17 +0530</pubDate>
       
-      <guid>/pf/portfolio/work18/</guid>
+      <guid>/portfolio/work18/</guid>
       <description>&lt;p&gt;담당파트 - 마크업, 스타일, 스크립트&lt;/p&gt;
 &lt;p&gt;Responsive Web&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>96NY</title>
-      <link>/pf/portfolio/work10/</link>
+      <link>/portfolio/work10/</link>
       <pubDate>Thu, 05 Nov 2020 19:56:17 +0530</pubDate>
       
-      <guid>/pf/portfolio/work10/</guid>
+      <guid>/portfolio/work10/</guid>
       <description>&lt;p&gt;담당파트 - 마크업, 스타일, 스크립트&lt;/p&gt;
 &lt;p&gt;Web, Mobile&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>ANA CAPRI</title>
-      <link>/pf/portfolio/work13/</link>
+      <link>/portfolio/work13/</link>
       <pubDate>Thu, 05 Nov 2020 19:56:17 +0530</pubDate>
       
-      <guid>/pf/portfolio/work13/</guid>
+      <guid>/portfolio/work13/</guid>
       <description>&lt;p&gt;담당파트 - 마크업, 스타일, 스크립트&lt;/p&gt;
 &lt;p&gt;Web, Mobile&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>DECO</title>
-      <link>/pf/portfolio/work12/</link>
+      <link>/portfolio/work12/</link>
       <pubDate>Thu, 05 Nov 2020 19:56:17 +0530</pubDate>
       
-      <guid>/pf/portfolio/work12/</guid>
+      <guid>/portfolio/work12/</guid>
       <description>&lt;p&gt;담당파트 - 마크업, 스타일, 스크립트&lt;/p&gt;
 &lt;p&gt;Web, Mobile&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>DECO&amp;E</title>
-      <link>/pf/portfolio/work11/</link>
+      <link>/portfolio/work11/</link>
       <pubDate>Thu, 05 Nov 2020 19:56:17 +0530</pubDate>
       
-      <guid>/pf/portfolio/work11/</guid>
+      <guid>/portfolio/work11/</guid>
       <description>&lt;p&gt;담당파트 - 마크업, 스타일, 스크립트&lt;/p&gt;
 &lt;p&gt;Web, Mobile&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Shiseido 시세이도</title>
-      <link>/pf/portfolio/work20/</link>
+      <link>/portfolio/work20/</link>
       <pubDate>Thu, 05 Nov 2020 19:56:17 +0530</pubDate>
       
-      <guid>/pf/portfolio/work20/</guid>
+      <guid>/portfolio/work20/</guid>
       <description>&lt;p&gt;담당파트 - 마크업, 스타일, 스크립트&lt;/p&gt;
 &lt;p&gt;Web&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>도쿄팡야</title>
-      <link>/pf/portfolio/work9/</link>
+      <link>/portfolio/work9/</link>
       <pubDate>Thu, 05 Nov 2020 19:56:17 +0530</pubDate>
       
-      <guid>/pf/portfolio/work9/</guid>
+      <guid>/portfolio/work9/</guid>
       <description>&lt;p&gt;담당파트 - 마크업, 스타일, 스크립트&lt;/p&gt;
 &lt;p&gt;Web, Mobile&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>스톤핸지</title>
-      <link>/pf/portfolio/work19/</link>
+      <link>/portfolio/work19/</link>
       <pubDate>Thu, 05 Nov 2020 19:56:17 +0530</pubDate>
       
-      <guid>/pf/portfolio/work19/</guid>
+      <guid>/portfolio/work19/</guid>
       <description>&lt;p&gt;담당파트 - 마크업, 스타일, 스크립트&lt;/p&gt;
 &lt;p&gt;Web&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>GGIO2</title>
-      <link>/pf/portfolio/work16/</link>
+      <link>/portfolio/work16/</link>
       <pubDate>Thu, 05 Nov 2020 19:56:17 +0530</pubDate>
       
-      <guid>/pf/portfolio/work16/</guid>
+      <guid>/portfolio/work16/</guid>
       <description>&lt;p&gt;담당파트 - 마크업, 스타일, 스크립트&lt;/p&gt;
 &lt;p&gt;Web, Mobile&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>중소기업청 주관 실패사례 공모전</title>
-      <link>/pf/portfolio/work7/</link>
+      <link>/portfolio/work7/</link>
       <pubDate>Thu, 05 Nov 2020 19:56:17 +0530</pubDate>
       
-      <guid>/pf/portfolio/work7/</guid>
+      <guid>/portfolio/work7/</guid>
       <description>&lt;p&gt;담당파트 - 마크업, 스타일, 스크립트&lt;/p&gt;
 &lt;p&gt;Web&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>배정장학회(APRO 그룹)</title>
-      <link>/pf/portfolio/work5/</link>
+      <link>/portfolio/work5/</link>
       <pubDate>Thu, 05 Nov 2020 19:44:32 +0530</pubDate>
       
-      <guid>/pf/portfolio/work5/</guid>
+      <guid>/portfolio/work5/</guid>
       <description>&lt;p&gt;담당파트 - 마크업, 스타일, 스크립트&lt;/p&gt;
 &lt;p&gt;Web&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>넷솔테크</title>
-      <link>/pf/portfolio/work8/</link>
+      <link>/portfolio/work8/</link>
       <pubDate>Thu, 05 Nov 2020 19:56:17 +0530</pubDate>
       
-      <guid>/pf/portfolio/work8/</guid>
+      <guid>/portfolio/work8/</guid>
       <description>&lt;p&gt;담당파트 - 마크업, 스타일, 스크립트&lt;/p&gt;
 &lt;p&gt;Web, Mobile&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>웹스(weps) 웅진씽크빅</title>
-      <link>/pf/portfolio/work6/</link>
+      <link>/portfolio/work6/</link>
       <pubDate>Thu, 05 Nov 2020 19:56:17 +0530</pubDate>
       
-      <guid>/pf/portfolio/work6/</guid>
+      <guid>/portfolio/work6/</guid>
       <description>&lt;p&gt;담당파트 - 마크업, 스타일, 스크립트&lt;/p&gt;
 &lt;p&gt;Tablet&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>아프로파이낸셜 그룹 LHSS</title>
-      <link>/pf/portfolio/work3/</link>
+      <link>/portfolio/work3/</link>
       <pubDate>Thu, 05 Nov 2020 19:44:32 +0530</pubDate>
       
-      <guid>/pf/portfolio/work3/</guid>
+      <guid>/portfolio/work3/</guid>
       <description>&lt;p&gt;담당파트 - 마크업, 스타일, 스크립트&lt;/p&gt;
 &lt;p&gt;Web&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>카맨인터내셔날</title>
-      <link>/pf/portfolio/work4/</link>
+      <link>/portfolio/work4/</link>
       <pubDate>Thu, 05 Nov 2020 19:44:32 +0530</pubDate>
       
-      <guid>/pf/portfolio/work4/</guid>
+      <guid>/portfolio/work4/</guid>
       <description>&lt;p&gt;담당파트 - 마크업, 스타일, 스크립트&lt;/p&gt;
 &lt;p&gt;Web&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>규제정보포털</title>
-      <link>/pf/portfolio/work2/</link>
+      <link>/portfolio/work2/</link>
       <pubDate>Thu, 05 Nov 2020 19:41:01 +0530</pubDate>
       
-      <guid>/pf/portfolio/work2/</guid>
+      <guid>/portfolio/work2/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://better.go.kr&#34; target=&#34;_blank&#34;&gt;better.go.kr&lt;/a&gt; 1세대&lt;/p&gt;
 &lt;p&gt;담당파트 - 마크업, 스타일, 스크립트&lt;/p&gt;
 &lt;p&gt;Web&lt;/p&gt;</description>
@@ -364,10 +364,10 @@
     
     <item>
       <title>NICE RMS 웹사이트</title>
-      <link>/pf/portfolio/work1/</link>
+      <link>/portfolio/work1/</link>
       <pubDate>Thu, 05 Nov 2020 18:25:22 +0530</pubDate>
       
-      <guid>/pf/portfolio/work1/</guid>
+      <guid>/portfolio/work1/</guid>
       <description>&lt;p&gt;NICE RMS 사용자 WEB&lt;/p&gt;
 &lt;p&gt;담당파트 - 마크업, 스타일&lt;/p&gt;</description>
     </item>
