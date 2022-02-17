@@ -25,23 +25,6 @@
     </item>
     
     <item>
-      <title>Bnpco 쇼핑몰</title>
-      <link>/portfolio/bnpco/</link>
-      <pubDate>Thu, 05 Nov 2020 19:56:17 +0530</pubDate>
-      
-      <guid>/portfolio/bnpco/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://www.bnpcomall.com&#34; target=&#34;_blank&#34;&gt;bnpcomall.com&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
-&lt;p&gt;( HTML, CSS, javascript, jQuery )&lt;/p&gt;
-&lt;hr&gt;
-&lt;ul&gt;
-&lt;li&gt;Responsive Web&lt;/li&gt;
-&lt;li&gt;고도몰 쇼핑몰 템플릿 커스텀 작업&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;</description>
-    </item>
-    
-    <item>
       <title>Dartking 다트킹</title>
       <link>/portfolio/dartking/</link>
       <pubDate>Thu, 05 Nov 2020 19:56:17 +0530</pubDate>
@@ -54,6 +37,22 @@
 &lt;ul&gt;
 &lt;li&gt;Responsive Web&lt;/li&gt;
 &lt;li&gt;1page 스크롤 인터렉션 및 메일 발송 작업&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>GADAM Associates</title>
+      <link>/portfolio/gadam/</link>
+      <pubDate>Thu, 05 Nov 2020 19:56:17 +0530</pubDate>
+      
+      <guid>/portfolio/gadam/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://gadamassociates.com&#34; target=&#34;_blank&#34;&gt;gadamassociates.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
+&lt;p&gt;( HTML, CSS, SASS, javascript, jQuery )&lt;/p&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;Responsive Web&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;</description>
     </item>
@@ -76,77 +75,46 @@
     </item>
     
     <item>
-      <title>㈜브라더푸드시스템 - 철뚝집</title>
-      <link>/portfolio/brotherfoodsystem/</link>
-      <pubDate>Thu, 05 Nov 2020 19:56:17 +0530</pubDate>
+      <title>픽스프라이스</title>
+      <link>/portfolio/fixprice/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/portfolio/brotherfoodsystem/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://brotherfoodsystem.com&#34; target=&#34;_blank&#34;&gt;brotherfoodsystem.com&lt;/a&gt;&lt;/p&gt;
+      <guid>/portfolio/fixprice/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://export.iecot.co.kr&#34; target=&#34;_blank&#34;&gt;iecot.co.kr&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
 &lt;p&gt;( HTML, CSS, SASS, javascript, jQuery )&lt;/p&gt;
 &lt;hr&gt;
 &lt;ul&gt;
 &lt;li&gt;Responsive Web&lt;/li&gt;
+&lt;li&gt;PHP 솔루션 데이터 적용 및 프론트엔드 작업 진행&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;</description>
     </item>
     
     <item>
-      <title>Brand DENTEK</title>
-      <link>/portfolio/dentek/</link>
+      <title>Bnpco 쇼핑몰</title>
+      <link>/portfolio/bnpco/</link>
       <pubDate>Thu, 05 Nov 2020 19:56:17 +0530</pubDate>
       
-      <guid>/portfolio/dentek/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://www.dentekkorea.co.kr&#34; target=&#34;_blank&#34;&gt;dentekkorea.co.kr&lt;/a&gt;&lt;/p&gt;
+      <guid>/portfolio/bnpco/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.bnpcomall.com&#34; target=&#34;_blank&#34;&gt;bnpcomall.com&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
-&lt;p&gt;( HTML, CSS, SASS, javascript, jQuery )&lt;/p&gt;
+&lt;p&gt;( HTML, CSS, javascript, jQuery )&lt;/p&gt;
 &lt;hr&gt;
 &lt;ul&gt;
 &lt;li&gt;Responsive Web&lt;/li&gt;
+&lt;li&gt;고도몰 쇼핑몰 템플릿 커스텀 작업&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;</description>
     </item>
     
     <item>
-      <title>Brand Orabrush</title>
-      <link>/portfolio/orabrush/</link>
+      <title>LG Chem</title>
+      <link>/portfolio/lg_chem/</link>
       <pubDate>Thu, 05 Nov 2020 19:56:17 +0530</pubDate>
       
-      <guid>/portfolio/orabrush/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://www.orabrush.co.kr&#34; target=&#34;_blank&#34;&gt;orabrush.co.kr&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
-&lt;p&gt;( HTML, CSS, SASS, javascript, jQuery )&lt;/p&gt;
-&lt;hr&gt;
-&lt;ul&gt;
-&lt;li&gt;Responsive Web&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;</description>
-    </item>
-    
-    <item>
-      <title>Brand RealSHADES</title>
-      <link>/portfolio/realkids/</link>
-      <pubDate>Thu, 05 Nov 2020 19:56:17 +0530</pubDate>
-      
-      <guid>/portfolio/realkids/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://www.realkidskorea.co.kr&#34; target=&#34;_blank&#34;&gt;realkidskorea.co.kr&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
-&lt;p&gt;( HTML, CSS, SASS, javascript, jQuery )&lt;/p&gt;
-&lt;hr&gt;
-&lt;ul&gt;
-&lt;li&gt;Responsive Web&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;</description>
-    </item>
-    
-    <item>
-      <title>CNL Korea</title>
-      <link>/portfolio/cnlkorea/</link>
-      <pubDate>Thu, 05 Nov 2020 19:56:17 +0530</pubDate>
-      
-      <guid>/portfolio/cnlkorea/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://www.cnlint.co.kr&#34; target=&#34;_blank&#34;&gt;cnlint.co.kr&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
+      <guid>/portfolio/lg_chem/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
 &lt;p&gt;( HTML, CSS, SASS, javascript, jQuery )&lt;/p&gt;
 &lt;hr&gt;
 &lt;ul&gt;
@@ -173,6 +141,22 @@
     </item>
     
     <item>
+      <title>㈜브라더푸드시스템 - 철뚝집</title>
+      <link>/portfolio/brotherfoodsystem/</link>
+      <pubDate>Thu, 05 Nov 2020 19:56:17 +0530</pubDate>
+      
+      <guid>/portfolio/brotherfoodsystem/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://brotherfoodsystem.com&#34; target=&#34;_blank&#34;&gt;brotherfoodsystem.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
+&lt;p&gt;( HTML, CSS, SASS, javascript, jQuery )&lt;/p&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;Responsive Web&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;</description>
+    </item>
+    
+    <item>
       <title>알케이알</title>
       <link>/portfolio/rkr/</link>
       <pubDate>Thu, 05 Nov 2020 19:56:17 +0530</pubDate>
@@ -189,12 +173,12 @@
     </item>
     
     <item>
-      <title>알케이알 SNS</title>
-      <link>/portfolio/rkr_sns/</link>
+      <title>CNL Korea</title>
+      <link>/portfolio/cnlkorea/</link>
       <pubDate>Thu, 05 Nov 2020 19:56:17 +0530</pubDate>
       
-      <guid>/portfolio/rkr_sns/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://rookiisns.com&#34; target=&#34;_blank&#34;&gt;rookiisns.com&lt;/a&gt;&lt;/p&gt;
+      <guid>/portfolio/cnlkorea/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.cnlint.co.kr&#34; target=&#34;_blank&#34;&gt;cnlint.co.kr&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
 &lt;p&gt;( HTML, CSS, SASS, javascript, jQuery )&lt;/p&gt;
 &lt;hr&gt;
@@ -268,12 +252,12 @@
     </item>
     
     <item>
-      <title>GADAM Associates</title>
-      <link>/portfolio/gadam/</link>
+      <title>Brand DENTEK</title>
+      <link>/portfolio/dentek/</link>
       <pubDate>Thu, 05 Nov 2020 19:56:17 +0530</pubDate>
       
-      <guid>/portfolio/gadam/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://gadamassociates.com&#34; target=&#34;_blank&#34;&gt;gadamassociates.com&lt;/a&gt;&lt;/p&gt;
+      <guid>/portfolio/dentek/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.dentekkorea.co.kr&#34; target=&#34;_blank&#34;&gt;dentekkorea.co.kr&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
 &lt;p&gt;( HTML, CSS, SASS, javascript, jQuery )&lt;/p&gt;
 &lt;hr&gt;
@@ -284,12 +268,13 @@
     </item>
     
     <item>
-      <title>GGIO2 틀린그림찾기 이벤트</title>
-      <link>/portfolio/ggio2_event/</link>
+      <title>Brand Orabrush</title>
+      <link>/portfolio/orabrush/</link>
       <pubDate>Thu, 05 Nov 2020 19:56:17 +0530</pubDate>
       
-      <guid>/portfolio/ggio2_event/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
+      <guid>/portfolio/orabrush/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.orabrush.co.kr&#34; target=&#34;_blank&#34;&gt;orabrush.co.kr&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
 &lt;p&gt;( HTML, CSS, SASS, javascript, jQuery )&lt;/p&gt;
 &lt;hr&gt;
 &lt;ul&gt;
@@ -299,12 +284,29 @@
     </item>
     
     <item>
-      <title>LG Chem</title>
-      <link>/portfolio/lg_chem/</link>
+      <title>Brand RealSHADES</title>
+      <link>/portfolio/realkids/</link>
       <pubDate>Thu, 05 Nov 2020 19:56:17 +0530</pubDate>
       
-      <guid>/portfolio/lg_chem/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
+      <guid>/portfolio/realkids/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.realkidskorea.co.kr&#34; target=&#34;_blank&#34;&gt;realkidskorea.co.kr&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
+&lt;p&gt;( HTML, CSS, SASS, javascript, jQuery )&lt;/p&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;Responsive Web&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>알케이알 SNS</title>
+      <link>/portfolio/rkr_sns/</link>
+      <pubDate>Thu, 05 Nov 2020 19:56:17 +0530</pubDate>
+      
+      <guid>/portfolio/rkr_sns/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://rookiisns.com&#34; target=&#34;_blank&#34;&gt;rookiisns.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
 &lt;p&gt;( HTML, CSS, SASS, javascript, jQuery )&lt;/p&gt;
 &lt;hr&gt;
 &lt;ul&gt;
@@ -389,6 +391,51 @@
     </item>
     
     <item>
+      <title>GGIO2 틀린그림찾기 이벤트</title>
+      <link>/portfolio/ggio2_event/</link>
+      <pubDate>Thu, 05 Nov 2020 19:56:17 +0530</pubDate>
+      
+      <guid>/portfolio/ggio2_event/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
+&lt;p&gt;( HTML, CSS, SASS, javascript, jQuery )&lt;/p&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;Responsive Web&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>GGIO2</title>
+      <link>/portfolio/ggio2/</link>
+      <pubDate>Thu, 05 Nov 2020 19:56:17 +0530</pubDate>
+      
+      <guid>/portfolio/ggio2/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
+&lt;p&gt;( HTML, CSS, SASS, javascript, jQuery )&lt;/p&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;Web, Mobile&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>배정장학회(APRO 그룹)</title>
+      <link>/portfolio/apro/</link>
+      <pubDate>Thu, 05 Nov 2020 19:44:32 +0530</pubDate>
+      
+      <guid>/portfolio/apro/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
+&lt;p&gt;( HTML, CSS, SASS, javascript, jQuery )&lt;/p&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;Web&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;</description>
+    </item>
+    
+    <item>
       <title>Shiseido 시세이도</title>
       <link>/portfolio/shiseido/</link>
       <pubDate>Thu, 05 Nov 2020 19:56:17 +0530</pubDate>
@@ -399,6 +446,21 @@
 &lt;hr&gt;
 &lt;ul&gt;
 &lt;li&gt;Web&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>넷솔테크</title>
+      <link>/portfolio/netsoul/</link>
+      <pubDate>Thu, 05 Nov 2020 19:56:17 +0530</pubDate>
+      
+      <guid>/portfolio/netsoul/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
+&lt;p&gt;( HTML, CSS, SASS, javascript, jQuery )&lt;/p&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;Web, Mobile&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;</description>
     </item>
@@ -435,16 +497,16 @@
     </item>
     
     <item>
-      <title>GGIO2</title>
-      <link>/portfolio/ggio2/</link>
+      <title>웹스(weps) 웅진씽크빅</title>
+      <link>/portfolio/weps/</link>
       <pubDate>Thu, 05 Nov 2020 19:56:17 +0530</pubDate>
       
-      <guid>/portfolio/ggio2/</guid>
+      <guid>/portfolio/weps/</guid>
       <description>&lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
-&lt;p&gt;( HTML, CSS, SASS, javascript, jQuery )&lt;/p&gt;
+&lt;p&gt;( HTML, CSS, LESS)&lt;/p&gt;
 &lt;hr&gt;
 &lt;ul&gt;
-&lt;li&gt;Web, Mobile&lt;/li&gt;
+&lt;li&gt;Tablet&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;</description>
     </item>
@@ -460,51 +522,6 @@
 &lt;hr&gt;
 &lt;ul&gt;
 &lt;li&gt;Web&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;</description>
-    </item>
-    
-    <item>
-      <title>배정장학회(APRO 그룹)</title>
-      <link>/portfolio/apro/</link>
-      <pubDate>Thu, 05 Nov 2020 19:44:32 +0530</pubDate>
-      
-      <guid>/portfolio/apro/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
-&lt;p&gt;( HTML, CSS, SASS, javascript, jQuery )&lt;/p&gt;
-&lt;hr&gt;
-&lt;ul&gt;
-&lt;li&gt;Web&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;</description>
-    </item>
-    
-    <item>
-      <title>넷솔테크</title>
-      <link>/portfolio/netsoul/</link>
-      <pubDate>Thu, 05 Nov 2020 19:56:17 +0530</pubDate>
-      
-      <guid>/portfolio/netsoul/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
-&lt;p&gt;( HTML, CSS, SASS, javascript, jQuery )&lt;/p&gt;
-&lt;hr&gt;
-&lt;ul&gt;
-&lt;li&gt;Web, Mobile&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;</description>
-    </item>
-    
-    <item>
-      <title>웹스(weps) 웅진씽크빅</title>
-      <link>/portfolio/weps/</link>
-      <pubDate>Thu, 05 Nov 2020 19:56:17 +0530</pubDate>
-      
-      <guid>/portfolio/weps/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
-&lt;p&gt;( HTML, CSS, LESS)&lt;/p&gt;
-&lt;hr&gt;
-&lt;ul&gt;
-&lt;li&gt;Tablet&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;</description>
     </item>
