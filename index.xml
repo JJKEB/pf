@@ -8,18 +8,17 @@
     <language>ko</language>
     <lastBuildDate>Sun, 05 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>에코트랜스</title>
-      <link>/portfolio/export_iecot/</link>
-      <pubDate>Sun, 05 Sep 2021 00:00:00 +0000</pubDate>
+      <title>푸른신호등</title>
+      <link>/portfolio/bluesigncorp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/portfolio/export_iecot/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://export.iecot.co.kr&#34; target=&#34;_blank&#34;&gt;iecot.co.kr&lt;/a&gt;&lt;/p&gt;
+      <guid>/portfolio/bluesigncorp/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://bluesign.co.kr&#34; target=&#34;_blank&#34;&gt;bluesign.co.kr&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
 &lt;p&gt;( HTML, CSS, SASS, javascript, jQuery )&lt;/p&gt;
 &lt;hr&gt;
 &lt;ul&gt;
 &lt;li&gt;Responsive Web&lt;/li&gt;
-&lt;li&gt;PHP 솔루션 데이터 적용 및 프론트엔드 작업 진행&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;</description>
     </item>
@@ -75,12 +74,80 @@
     </item>
     
     <item>
-      <title>픽스프라이스</title>
-      <link>/portfolio/fixprice/</link>
+      <title>모퉁이뜨개방</title>
+      <link>/portfolio/unicon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/portfolio/fixprice/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://export.iecot.co.kr&#34; target=&#34;_blank&#34;&gt;iecot.co.kr&lt;/a&gt;&lt;/p&gt;
+      <guid>/portfolio/unicon/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://unic-on.com&#34; target=&#34;_blank&#34;&gt;unic-on.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
+&lt;p&gt;( HTML, CSS, SASS, javascript, jQuery )&lt;/p&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;Responsive Web&lt;/li&gt;
+&lt;li&gt;모퉁이뜨개방 앱 홍보 사이트 작업&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ko-box</title>
+      <link>/portfolio/kobox/</link>
+      <pubDate>Sun, 05 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/portfolio/kobox/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://new.ko-box.net&#34; target=&#34;_blank&#34;&gt;ko-box.net&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
+&lt;p&gt;( HTML, CSS, SASS, javascript, jQuery )&lt;/p&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;Responsive Web&lt;/li&gt;
+&lt;li&gt;PHP 솔루션 데이터 적용 및 프론트엔드 작업 진행&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>에코트랜스</title>
+      <link>/portfolio/export_iecot/</link>
+      <pubDate>Sun, 05 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/portfolio/export_iecot/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://export.iecot.co.kr&#34; target=&#34;_blank&#34;&gt;export.iecot.co.kr&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
+&lt;p&gt;( HTML, CSS, SASS, javascript, jQuery )&lt;/p&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;Responsive Web&lt;/li&gt;
+&lt;li&gt;PHP 솔루션 데이터 적용 및 프론트엔드 작업 진행&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>카에루몰</title>
+      <link>/portfolio/kaerumall/</link>
+      <pubDate>Sun, 05 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/portfolio/kaerumall/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://kaerumall.com&#34; target=&#34;_blank&#34;&gt;kaerumall.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
+&lt;p&gt;( HTML, CSS, SASS, javascript, jQuery )&lt;/p&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;Responsive Web&lt;/li&gt;
+&lt;li&gt;PHP 솔루션 데이터 적용 및 프론트엔드 작업 진행&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>하이재팬</title>
+      <link>/portfolio/hijapan/</link>
+      <pubDate>Sun, 05 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/portfolio/hijapan/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://hijapan.net&#34; target=&#34;_blank&#34;&gt;hijapan.net&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
 &lt;p&gt;( HTML, CSS, SASS, javascript, jQuery )&lt;/p&gt;
 &lt;hr&gt;
@@ -168,6 +235,108 @@
 &lt;hr&gt;
 &lt;ul&gt;
 &lt;li&gt;Responsive Web&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>LBK STORE</title>
+      <link>/portfolio/lbkstore/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/portfolio/lbkstore/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://lbkstore.com&#34; target=&#34;_blank&#34;&gt;lbkstore.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
+&lt;p&gt;( HTML, CSS, SASS, javascript, jQuery )&lt;/p&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;Responsive Web&lt;/li&gt;
+&lt;li&gt;PHP 솔루션 데이터 적용 및 프론트엔드 작업 진행&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>LBK STORE SHOP</title>
+      <link>/portfolio/lbkstore_shop/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/portfolio/lbkstore_shop/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://shop.lbkstore.com&#34; target=&#34;_blank&#34;&gt;shop.lbkstore.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
+&lt;p&gt;( HTML, CSS, SASS, javascript, jQuery )&lt;/p&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;Responsive Web&lt;/li&gt;
+&lt;li&gt;PHP 솔루션 데이터 적용 및 프론트엔드 작업 진행&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>루어방</title>
+      <link>/portfolio/lurebang/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/portfolio/lurebang/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://lurebang.co.kr&#34; target=&#34;_blank&#34;&gt;lurebang.co.kr&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
+&lt;p&gt;( HTML, CSS, SASS, javascript, jQuery )&lt;/p&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;Responsive Web&lt;/li&gt;
+&lt;li&gt;PHP 솔루션 데이터 적용 및 프론트엔드 작업 진행&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>메루재팬</title>
+      <link>/portfolio/merjapan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/portfolio/merjapan/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://merjapan.com&#34; target=&#34;_blank&#34;&gt;merjapan.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
+&lt;p&gt;( HTML, CSS, SASS, javascript, jQuery )&lt;/p&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;Responsive Web&lt;/li&gt;
+&lt;li&gt;PHP 솔루션 데이터 적용 및 프론트엔드 작업 진행&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>픽스프라이스</title>
+      <link>/portfolio/fixprice/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/portfolio/fixprice/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://fixprice.co.kr&#34; target=&#34;_blank&#34;&gt;fixprice.co.kr&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
+&lt;p&gt;( HTML, CSS, SASS, javascript, jQuery )&lt;/p&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;Responsive Web&lt;/li&gt;
+&lt;li&gt;PHP 솔루션 데이터 적용 및 프론트엔드 작업 진행&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>만능직구</title>
+      <link>/portfolio/mng9/</link>
+      <pubDate>Sun, 05 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/portfolio/mng9/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://mng9.kr&#34; target=&#34;_blank&#34;&gt;mng9.kr&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
+&lt;p&gt;( HTML, CSS, SASS, javascript, jQuery )&lt;/p&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;Responsive Web&lt;/li&gt;
+&lt;li&gt;PHP 솔루션 데이터 적용 및 프론트엔드 작업 진행&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;</description>
     </item>

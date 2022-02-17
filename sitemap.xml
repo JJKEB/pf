@@ -2,8 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/portfolio/export_iecot/</loc>
-    <lastmod>2021-09-05T00:00:00+00:00</lastmod>
+    <loc>/portfolio/bluesigncorp/</loc>
   </url><url>
     <loc>/portfolio/dartking/</loc>
     <lastmod>2020-11-05T19:56:17+05:30</lastmod>
@@ -14,7 +13,19 @@
     <loc>/portfolio/onionad/</loc>
     <lastmod>2020-11-05T19:56:17+05:30</lastmod>
   </url><url>
-    <loc>/portfolio/fixprice/</loc>
+    <loc>/portfolio/unicon/</loc>
+  </url><url>
+    <loc>/portfolio/kobox/</loc>
+    <lastmod>2021-09-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/portfolio/export_iecot/</loc>
+    <lastmod>2021-09-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/portfolio/kaerumall/</loc>
+    <lastmod>2021-09-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/portfolio/hijapan/</loc>
+    <lastmod>2021-09-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/portfolio/bnpco/</loc>
     <lastmod>2020-11-05T19:56:17+05:30</lastmod>
@@ -30,6 +41,19 @@
   </url><url>
     <loc>/portfolio/rkr/</loc>
     <lastmod>2020-11-05T19:56:17+05:30</lastmod>
+  </url><url>
+    <loc>/portfolio/lbkstore/</loc>
+  </url><url>
+    <loc>/portfolio/lbkstore_shop/</loc>
+  </url><url>
+    <loc>/portfolio/lurebang/</loc>
+  </url><url>
+    <loc>/portfolio/merjapan/</loc>
+  </url><url>
+    <loc>/portfolio/fixprice/</loc>
+  </url><url>
+    <loc>/portfolio/mng9/</loc>
+    <lastmod>2021-09-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/portfolio/cnlkorea/</loc>
     <lastmod>2020-11-05T19:56:17+05:30</lastmod>
