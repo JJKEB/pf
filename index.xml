@@ -8,11 +8,43 @@
     <language>ko</language>
     <lastBuildDate>Sun, 05 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>푸른신호등</title>
-      <link>/portfolio/bluesigncorp/</link>
+      <title>Hacker News - React</title>
+      <link>/all/hacker/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/portfolio/bluesigncorp/</guid>
+      <guid>/all/hacker/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://romantic-kowalevski-01c76e.netlify.app/&#34; target=&#34;_blank&#34;&gt;Hacker News&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;( React, HTML, CSS, javascript )&lt;/p&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;Mini Project&lt;/li&gt;
+&lt;li&gt;Hacker News Api 활용하여 React 로 작업&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Hacker News - React</title>
+      <link>/etc/hacker/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/etc/hacker/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://romantic-kowalevski-01c76e.netlify.app/&#34; target=&#34;_blank&#34;&gt;Hacker News&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;( React, HTML, CSS, javascript )&lt;/p&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;Mini Project&lt;/li&gt;
+&lt;li&gt;Hacker News Api 활용하여 React 로 작업&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>푸른신호등</title>
+      <link>/all/bluesigncorp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/all/bluesigncorp/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://bluesign.co.kr&#34; target=&#34;_blank&#34;&gt;bluesign.co.kr&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
 &lt;p&gt;( HTML, CSS, SASS, javascript, jQuery )&lt;/p&gt;
@@ -24,146 +56,27 @@
     </item>
     
     <item>
-      <title>Dartking 다트킹</title>
-      <link>/portfolio/dartking/</link>
-      <pubDate>Thu, 05 Nov 2020 19:56:17 +0530</pubDate>
-      
-      <guid>/portfolio/dartking/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://www.idartsking.com&#34; target=&#34;_blank&#34;&gt;idartsking.com&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
-&lt;p&gt;( HTML, CSS, SASS, javascript, jQuery, php )&lt;/p&gt;
-&lt;hr&gt;
-&lt;ul&gt;
-&lt;li&gt;Responsive Web&lt;/li&gt;
-&lt;li&gt;1page 스크롤 인터렉션 및 메일 발송 작업&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;</description>
-    </item>
-    
-    <item>
-      <title>GADAM Associates</title>
-      <link>/portfolio/gadam/</link>
-      <pubDate>Thu, 05 Nov 2020 19:56:17 +0530</pubDate>
-      
-      <guid>/portfolio/gadam/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://gadamassociates.com&#34; target=&#34;_blank&#34;&gt;gadamassociates.com&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
-&lt;p&gt;( HTML, CSS, SASS, javascript, jQuery )&lt;/p&gt;
-&lt;hr&gt;
-&lt;ul&gt;
-&lt;li&gt;Responsive Web&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;</description>
-    </item>
-    
-    <item>
-      <title>onionad</title>
-      <link>/portfolio/onionad/</link>
-      <pubDate>Thu, 05 Nov 2020 19:56:17 +0530</pubDate>
-      
-      <guid>/portfolio/onionad/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://onionad.com/owner/&#34; target=&#34;_blank&#34;&gt;onionad.com&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
-&lt;p&gt;( HTML, CSS, SASS, javascript, jQuery, asp )&lt;/p&gt;
-&lt;hr&gt;
-&lt;ul&gt;
-&lt;li&gt;Responsive Web&lt;/li&gt;
-&lt;li&gt;UI 인터렉션 작업 및 관리자 연동 작업&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;</description>
-    </item>
-    
-    <item>
-      <title>모퉁이뜨개방</title>
-      <link>/portfolio/unicon/</link>
+      <title>푸른신호등</title>
+      <link>/site/bluesigncorp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/portfolio/unicon/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://unic-on.com&#34; target=&#34;_blank&#34;&gt;unic-on.com&lt;/a&gt;&lt;/p&gt;
+      <guid>/site/bluesigncorp/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://bluesign.co.kr&#34; target=&#34;_blank&#34;&gt;bluesign.co.kr&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
 &lt;p&gt;( HTML, CSS, SASS, javascript, jQuery )&lt;/p&gt;
 &lt;hr&gt;
 &lt;ul&gt;
 &lt;li&gt;Responsive Web&lt;/li&gt;
-&lt;li&gt;모퉁이뜨개방 앱 홍보 사이트 작업&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;</description>
     </item>
     
     <item>
-      <title>ko-box</title>
-      <link>/portfolio/kobox/</link>
-      <pubDate>Sun, 05 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/portfolio/kobox/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://new.ko-box.net&#34; target=&#34;_blank&#34;&gt;ko-box.net&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
-&lt;p&gt;( HTML, CSS, SASS, javascript, jQuery )&lt;/p&gt;
-&lt;hr&gt;
-&lt;ul&gt;
-&lt;li&gt;Responsive Web&lt;/li&gt;
-&lt;li&gt;PHP 솔루션 데이터 적용 및 프론트엔드 작업 진행&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;</description>
-    </item>
-    
-    <item>
-      <title>에코트랜스</title>
-      <link>/portfolio/export_iecot/</link>
-      <pubDate>Sun, 05 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/portfolio/export_iecot/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://export.iecot.co.kr&#34; target=&#34;_blank&#34;&gt;export.iecot.co.kr&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
-&lt;p&gt;( HTML, CSS, SASS, javascript, jQuery )&lt;/p&gt;
-&lt;hr&gt;
-&lt;ul&gt;
-&lt;li&gt;Responsive Web&lt;/li&gt;
-&lt;li&gt;PHP 솔루션 데이터 적용 및 프론트엔드 작업 진행&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;</description>
-    </item>
-    
-    <item>
-      <title>카에루몰</title>
-      <link>/portfolio/kaerumall/</link>
-      <pubDate>Sun, 05 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/portfolio/kaerumall/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://kaerumall.com&#34; target=&#34;_blank&#34;&gt;kaerumall.com&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
-&lt;p&gt;( HTML, CSS, SASS, javascript, jQuery )&lt;/p&gt;
-&lt;hr&gt;
-&lt;ul&gt;
-&lt;li&gt;Responsive Web&lt;/li&gt;
-&lt;li&gt;PHP 솔루션 데이터 적용 및 프론트엔드 작업 진행&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;</description>
-    </item>
-    
-    <item>
-      <title>하이재팬</title>
-      <link>/portfolio/hijapan/</link>
-      <pubDate>Sun, 05 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/portfolio/hijapan/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://hijapan.net&#34; target=&#34;_blank&#34;&gt;hijapan.net&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
-&lt;p&gt;( HTML, CSS, SASS, javascript, jQuery )&lt;/p&gt;
-&lt;hr&gt;
-&lt;ul&gt;
-&lt;li&gt;Responsive Web&lt;/li&gt;
-&lt;li&gt;PHP 솔루션 데이터 적용 및 프론트엔드 작업 진행&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;</description>
-    </item>
-    
-    <item>
-      <title>Bnpco 쇼핑몰</title>
-      <link>/portfolio/bnpco/</link>
+      <title>Bnpco - 고도몰 쇼핑몰</title>
+      <link>/all/bnpco/</link>
       <pubDate>Thu, 05 Nov 2020 19:56:17 +0530</pubDate>
       
-      <guid>/portfolio/bnpco/</guid>
+      <guid>/all/bnpco/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://www.bnpcomall.com&#34; target=&#34;_blank&#34;&gt;bnpcomall.com&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
 &lt;p&gt;( HTML, CSS, javascript, jQuery )&lt;/p&gt;
@@ -176,75 +89,147 @@
     </item>
     
     <item>
-      <title>LG Chem</title>
-      <link>/portfolio/lg_chem/</link>
+      <title>Bnpco - 고도몰 쇼핑몰</title>
+      <link>/mall/bnpco/</link>
       <pubDate>Thu, 05 Nov 2020 19:56:17 +0530</pubDate>
       
-      <guid>/portfolio/lg_chem/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
-&lt;p&gt;( HTML, CSS, SASS, javascript, jQuery )&lt;/p&gt;
+      <guid>/mall/bnpco/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.bnpcomall.com&#34; target=&#34;_blank&#34;&gt;bnpcomall.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
+&lt;p&gt;( HTML, CSS, javascript, jQuery )&lt;/p&gt;
 &lt;hr&gt;
 &lt;ul&gt;
 &lt;li&gt;Responsive Web&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;</description>
-    </item>
-    
-    <item>
-      <title>LION9 쇼핑몰</title>
-      <link>/portfolio/lion9/</link>
-      <pubDate>Thu, 05 Nov 2020 19:56:17 +0530</pubDate>
-      
-      <guid>/portfolio/lion9/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://www.lion9.co.kr&#34; target=&#34;_blank&#34;&gt;lion9.co.kr&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
-&lt;p&gt;( HTML, CSS, SASS, javascript, jQuery )&lt;/p&gt;
-&lt;hr&gt;
-&lt;ul&gt;
-&lt;li&gt;Web, Mobile&lt;/li&gt;
 &lt;li&gt;고도몰 쇼핑몰 템플릿 커스텀 작업&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;</description>
     </item>
     
     <item>
-      <title>㈜브라더푸드시스템 - 철뚝집</title>
-      <link>/portfolio/brotherfoodsystem/</link>
+      <title>Dartking 다트킹</title>
+      <link>/all/dartking/</link>
       <pubDate>Thu, 05 Nov 2020 19:56:17 +0530</pubDate>
       
-      <guid>/portfolio/brotherfoodsystem/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://brotherfoodsystem.com&#34; target=&#34;_blank&#34;&gt;brotherfoodsystem.com&lt;/a&gt;&lt;/p&gt;
+      <guid>/all/dartking/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.idartsking.com&#34; target=&#34;_blank&#34;&gt;idartsking.com&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
-&lt;p&gt;( HTML, CSS, SASS, javascript, jQuery )&lt;/p&gt;
+&lt;p&gt;( HTML, CSS, SASS, javascript, jQuery, php )&lt;/p&gt;
 &lt;hr&gt;
 &lt;ul&gt;
 &lt;li&gt;Responsive Web&lt;/li&gt;
+&lt;li&gt;1page 스크롤 인터렉션 및 메일 발송 작업&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;</description>
     </item>
     
     <item>
-      <title>알케이알</title>
-      <link>/portfolio/rkr/</link>
+      <title>Dartking 다트킹</title>
+      <link>/site/dartking/</link>
       <pubDate>Thu, 05 Nov 2020 19:56:17 +0530</pubDate>
       
-      <guid>/portfolio/rkr/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://rkrcorp.co.kr&#34; target=&#34;_blank&#34;&gt;rkrcorp.co.kr&lt;/a&gt;&lt;/p&gt;
+      <guid>/site/dartking/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.idartsking.com&#34; target=&#34;_blank&#34;&gt;idartsking.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
+&lt;p&gt;( HTML, CSS, SASS, javascript, jQuery, php )&lt;/p&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;Responsive Web&lt;/li&gt;
+&lt;li&gt;1page 스크롤 인터렉션 및 메일 발송 작업&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>onionad</title>
+      <link>/all/onionad/</link>
+      <pubDate>Thu, 05 Nov 2020 19:56:17 +0530</pubDate>
+      
+      <guid>/all/onionad/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://onionad.com/owner/&#34; target=&#34;_blank&#34;&gt;onionad.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
+&lt;p&gt;( HTML, CSS, SASS, javascript, jQuery, asp )&lt;/p&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;Responsive Web&lt;/li&gt;
+&lt;li&gt;UI 인터렉션 작업 및 관리자 연동 작업&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>onionad</title>
+      <link>/site/onionad/</link>
+      <pubDate>Thu, 05 Nov 2020 19:56:17 +0530</pubDate>
+      
+      <guid>/site/onionad/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://onionad.com/owner/&#34; target=&#34;_blank&#34;&gt;onionad.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
+&lt;p&gt;( HTML, CSS, SASS, javascript, jQuery, asp )&lt;/p&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;Responsive Web&lt;/li&gt;
+&lt;li&gt;UI 인터렉션 작업 및 관리자 연동 작업&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>JPLUG</title>
+      <link>/all/jplug/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/all/jplug/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://logispop.com&#34; target=&#34;_blank&#34;&gt;logispop.com&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
 &lt;p&gt;( HTML, CSS, SASS, javascript, jQuery )&lt;/p&gt;
 &lt;hr&gt;
 &lt;ul&gt;
 &lt;li&gt;Responsive Web&lt;/li&gt;
+&lt;li&gt;PHP 솔루션 데이터 적용 및 프론트엔드 작업 진행&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>JPLUG</title>
+      <link>/mall/jplug/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/mall/jplug/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://logispop.com&#34; target=&#34;_blank&#34;&gt;logispop.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
+&lt;p&gt;( HTML, CSS, SASS, javascript, jQuery )&lt;/p&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;Responsive Web&lt;/li&gt;
+&lt;li&gt;PHP 솔루션 데이터 적용 및 프론트엔드 작업 진행&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;</description>
     </item>
     
     <item>
       <title>LBK STORE</title>
-      <link>/portfolio/lbkstore/</link>
+      <link>/all/lbkstore/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/portfolio/lbkstore/</guid>
+      <guid>/all/lbkstore/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://lbkstore.com&#34; target=&#34;_blank&#34;&gt;lbkstore.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
+&lt;p&gt;( HTML, CSS, SASS, javascript, jQuery )&lt;/p&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;Responsive Web&lt;/li&gt;
+&lt;li&gt;PHP 솔루션 데이터 적용 및 프론트엔드 작업 진행&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>LBK STORE</title>
+      <link>/mall/lbkstore/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/mall/lbkstore/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://lbkstore.com&#34; target=&#34;_blank&#34;&gt;lbkstore.com&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
 &lt;p&gt;( HTML, CSS, SASS, javascript, jQuery )&lt;/p&gt;
@@ -258,10 +243,10 @@
     
     <item>
       <title>LBK STORE SHOP</title>
-      <link>/portfolio/lbkstore_shop/</link>
+      <link>/all/lbkstore_shop/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/portfolio/lbkstore_shop/</guid>
+      <guid>/all/lbkstore_shop/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://shop.lbkstore.com&#34; target=&#34;_blank&#34;&gt;shop.lbkstore.com&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
 &lt;p&gt;( HTML, CSS, SASS, javascript, jQuery )&lt;/p&gt;
@@ -274,11 +259,443 @@
     </item>
     
     <item>
-      <title>루어방</title>
-      <link>/portfolio/lurebang/</link>
+      <title>LBK STORE SHOP</title>
+      <link>/mall/lbkstore_shop/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/portfolio/lurebang/</guid>
+      <guid>/mall/lbkstore_shop/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://shop.lbkstore.com&#34; target=&#34;_blank&#34;&gt;shop.lbkstore.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
+&lt;p&gt;( HTML, CSS, SASS, javascript, jQuery )&lt;/p&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;Responsive Web&lt;/li&gt;
+&lt;li&gt;PHP 솔루션 데이터 적용 및 프론트엔드 작업 진행&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>모퉁이뜨개방</title>
+      <link>/all/unicon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/all/unicon/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://unic-on.com&#34; target=&#34;_blank&#34;&gt;unic-on.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
+&lt;p&gt;( HTML, CSS, SASS, javascript, jQuery )&lt;/p&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;Responsive Web&lt;/li&gt;
+&lt;li&gt;모퉁이뜨개방 앱 홍보 사이트 작업&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>모퉁이뜨개방</title>
+      <link>/promotion/unicon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/promotion/unicon/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://unic-on.com&#34; target=&#34;_blank&#34;&gt;unic-on.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
+&lt;p&gt;( HTML, CSS, SASS, javascript, jQuery )&lt;/p&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;Responsive Web&lt;/li&gt;
+&lt;li&gt;모퉁이뜨개방 앱 홍보 사이트 작업&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>오하이요재팬</title>
+      <link>/all/ohayou/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/all/ohayou/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://ohayou-japan.com&#34; target=&#34;_blank&#34;&gt;ohayou-japan.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
+&lt;p&gt;( HTML, CSS, SASS, javascript, jQuery )&lt;/p&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;Responsive Web&lt;/li&gt;
+&lt;li&gt;PHP 솔루션 데이터 적용 및 프론트엔드 작업 진행&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>오하이요재팬</title>
+      <link>/mall/ohayou/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/mall/ohayou/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://ohayou-japan.com&#34; target=&#34;_blank&#34;&gt;ohayou-japan.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
+&lt;p&gt;( HTML, CSS, SASS, javascript, jQuery )&lt;/p&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;Responsive Web&lt;/li&gt;
+&lt;li&gt;PHP 솔루션 데이터 적용 및 프론트엔드 작업 진행&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ko-box</title>
+      <link>/all/kobox/</link>
+      <pubDate>Sun, 05 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/all/kobox/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://new.ko-box.net&#34; target=&#34;_blank&#34;&gt;ko-box.net&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
+&lt;p&gt;( HTML, CSS, SASS, javascript, jQuery )&lt;/p&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;Responsive Web&lt;/li&gt;
+&lt;li&gt;PHP 솔루션 데이터 적용 및 프론트엔드 작업 진행&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ko-box</title>
+      <link>/site/kobox/</link>
+      <pubDate>Sun, 05 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/site/kobox/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://new.ko-box.net&#34; target=&#34;_blank&#34;&gt;ko-box.net&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
+&lt;p&gt;( HTML, CSS, SASS, javascript, jQuery )&lt;/p&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;Responsive Web&lt;/li&gt;
+&lt;li&gt;PHP 솔루션 데이터 적용 및 프론트엔드 작업 진행&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>에코트랜스</title>
+      <link>/all/export_iecot/</link>
+      <pubDate>Sun, 05 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/all/export_iecot/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://export.iecot.co.kr&#34; target=&#34;_blank&#34;&gt;export.iecot.co.kr&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
+&lt;p&gt;( HTML, CSS, SASS, javascript, jQuery )&lt;/p&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;Responsive Web&lt;/li&gt;
+&lt;li&gt;PHP 솔루션 데이터 적용 및 프론트엔드 작업 진행&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>에코트랜스</title>
+      <link>/site/export_iecot/</link>
+      <pubDate>Sun, 05 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/site/export_iecot/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://export.iecot.co.kr&#34; target=&#34;_blank&#34;&gt;export.iecot.co.kr&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
+&lt;p&gt;( HTML, CSS, SASS, javascript, jQuery )&lt;/p&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;Responsive Web&lt;/li&gt;
+&lt;li&gt;PHP 솔루션 데이터 적용 및 프론트엔드 작업 진행&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>카에루몰</title>
+      <link>/all/kaerumall/</link>
+      <pubDate>Sun, 05 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/all/kaerumall/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://kaerumall.com&#34; target=&#34;_blank&#34;&gt;kaerumall.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
+&lt;p&gt;( HTML, CSS, SASS, javascript, jQuery )&lt;/p&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;Responsive Web&lt;/li&gt;
+&lt;li&gt;PHP 솔루션 데이터 적용 및 프론트엔드 작업 진행&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>카에루몰</title>
+      <link>/mall/kaerumall/</link>
+      <pubDate>Sun, 05 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/mall/kaerumall/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://kaerumall.com&#34; target=&#34;_blank&#34;&gt;kaerumall.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
+&lt;p&gt;( HTML, CSS, SASS, javascript, jQuery )&lt;/p&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;Responsive Web&lt;/li&gt;
+&lt;li&gt;PHP 솔루션 데이터 적용 및 프론트엔드 작업 진행&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>하이재팬</title>
+      <link>/all/hijapan/</link>
+      <pubDate>Sun, 05 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/all/hijapan/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://hijapan.net&#34; target=&#34;_blank&#34;&gt;hijapan.net&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
+&lt;p&gt;( HTML, CSS, SASS, javascript, jQuery )&lt;/p&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;Responsive Web&lt;/li&gt;
+&lt;li&gt;PHP 솔루션 데이터 적용 및 프론트엔드 작업 진행&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>하이재팬</title>
+      <link>/site/hijapan/</link>
+      <pubDate>Sun, 05 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/site/hijapan/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://hijapan.net&#34; target=&#34;_blank&#34;&gt;hijapan.net&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
+&lt;p&gt;( HTML, CSS, SASS, javascript, jQuery )&lt;/p&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;Responsive Web&lt;/li&gt;
+&lt;li&gt;PHP 솔루션 데이터 적용 및 프론트엔드 작업 진행&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>GADAM Associates</title>
+      <link>/all/gadam/</link>
+      <pubDate>Thu, 05 Nov 2020 19:56:17 +0530</pubDate>
+      
+      <guid>/all/gadam/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://gadamassociates.com&#34; target=&#34;_blank&#34;&gt;gadamassociates.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
+&lt;p&gt;( HTML, CSS, SASS, javascript, jQuery )&lt;/p&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;Responsive Web&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>GADAM Associates</title>
+      <link>/site/gadam/</link>
+      <pubDate>Thu, 05 Nov 2020 19:56:17 +0530</pubDate>
+      
+      <guid>/site/gadam/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://gadamassociates.com&#34; target=&#34;_blank&#34;&gt;gadamassociates.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
+&lt;p&gt;( HTML, CSS, SASS, javascript, jQuery )&lt;/p&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;Responsive Web&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>LG Chem</title>
+      <link>/all/lg_chem/</link>
+      <pubDate>Thu, 05 Nov 2020 19:56:17 +0530</pubDate>
+      
+      <guid>/all/lg_chem/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
+&lt;p&gt;( HTML, CSS, SASS, javascript, jQuery )&lt;/p&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;Responsive Web&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>LG Chem</title>
+      <link>/site/lg_chem/</link>
+      <pubDate>Thu, 05 Nov 2020 19:56:17 +0530</pubDate>
+      
+      <guid>/site/lg_chem/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
+&lt;p&gt;( HTML, CSS, SASS, javascript, jQuery )&lt;/p&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;Responsive Web&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>LION9 - 고도몰 쇼핑몰</title>
+      <link>/all/lion9/</link>
+      <pubDate>Thu, 05 Nov 2020 19:56:17 +0530</pubDate>
+      
+      <guid>/all/lion9/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.lion9.co.kr&#34; target=&#34;_blank&#34;&gt;lion9.co.kr&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
+&lt;p&gt;( HTML, CSS, SASS, javascript, jQuery )&lt;/p&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;Web, Mobile&lt;/li&gt;
+&lt;li&gt;고도몰 쇼핑몰 템플릿 커스텀 작업&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>LION9 - 고도몰 쇼핑몰</title>
+      <link>/mall/lion9/</link>
+      <pubDate>Thu, 05 Nov 2020 19:56:17 +0530</pubDate>
+      
+      <guid>/mall/lion9/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.lion9.co.kr&#34; target=&#34;_blank&#34;&gt;lion9.co.kr&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
+&lt;p&gt;( HTML, CSS, SASS, javascript, jQuery )&lt;/p&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;Web, Mobile&lt;/li&gt;
+&lt;li&gt;고도몰 쇼핑몰 템플릿 커스텀 작업&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>㈜브라더푸드시스템 - 철뚝집</title>
+      <link>/all/brotherfoodsystem/</link>
+      <pubDate>Thu, 05 Nov 2020 19:56:17 +0530</pubDate>
+      
+      <guid>/all/brotherfoodsystem/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://brotherfoodsystem.com&#34; target=&#34;_blank&#34;&gt;brotherfoodsystem.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
+&lt;p&gt;( HTML, CSS, SASS, javascript, jQuery )&lt;/p&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;Responsive Web&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>㈜브라더푸드시스템 - 철뚝집</title>
+      <link>/site/brotherfoodsystem/</link>
+      <pubDate>Thu, 05 Nov 2020 19:56:17 +0530</pubDate>
+      
+      <guid>/site/brotherfoodsystem/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://brotherfoodsystem.com&#34; target=&#34;_blank&#34;&gt;brotherfoodsystem.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
+&lt;p&gt;( HTML, CSS, SASS, javascript, jQuery )&lt;/p&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;Responsive Web&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>알케이알</title>
+      <link>/all/rkr/</link>
+      <pubDate>Thu, 05 Nov 2020 19:56:17 +0530</pubDate>
+      
+      <guid>/all/rkr/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://rkrcorp.co.kr&#34; target=&#34;_blank&#34;&gt;rkrcorp.co.kr&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
+&lt;p&gt;( HTML, CSS, SASS, javascript, jQuery )&lt;/p&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;Responsive Web&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>알케이알</title>
+      <link>/site/rkr/</link>
+      <pubDate>Thu, 05 Nov 2020 19:56:17 +0530</pubDate>
+      
+      <guid>/site/rkr/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://rkrcorp.co.kr&#34; target=&#34;_blank&#34;&gt;rkrcorp.co.kr&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
+&lt;p&gt;( HTML, CSS, SASS, javascript, jQuery )&lt;/p&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;Responsive Web&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>드림포터</title>
+      <link>/all/dreamporter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/all/dreamporter/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://dreamporter.net&#34; target=&#34;_blank&#34;&gt;dreamporter.net&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
+&lt;p&gt;( HTML, CSS, SASS, javascript, jQuery )&lt;/p&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;Responsive Web&lt;/li&gt;
+&lt;li&gt;PHP 솔루션 데이터 적용 및 프론트엔드 작업 진행&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>드림포터</title>
+      <link>/site/dreamporter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/site/dreamporter/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://dreamporter.net&#34; target=&#34;_blank&#34;&gt;dreamporter.net&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
+&lt;p&gt;( HTML, CSS, SASS, javascript, jQuery )&lt;/p&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;Responsive Web&lt;/li&gt;
+&lt;li&gt;PHP 솔루션 데이터 적용 및 프론트엔드 작업 진행&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>루어방</title>
+      <link>/all/lurebang/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/all/lurebang/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://lurebang.co.kr&#34; target=&#34;_blank&#34;&gt;lurebang.co.kr&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
+&lt;p&gt;( HTML, CSS, SASS, javascript, jQuery )&lt;/p&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;Responsive Web&lt;/li&gt;
+&lt;li&gt;PHP 솔루션 데이터 적용 및 프론트엔드 작업 진행&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>루어방</title>
+      <link>/mall/lurebang/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/mall/lurebang/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://lurebang.co.kr&#34; target=&#34;_blank&#34;&gt;lurebang.co.kr&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
 &lt;p&gt;( HTML, CSS, SASS, javascript, jQuery )&lt;/p&gt;
@@ -292,10 +709,27 @@
     
     <item>
       <title>메루재팬</title>
-      <link>/portfolio/merjapan/</link>
+      <link>/all/merjapan/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/portfolio/merjapan/</guid>
+      <guid>/all/merjapan/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://merjapan.com&#34; target=&#34;_blank&#34;&gt;merjapan.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
+&lt;p&gt;( HTML, CSS, SASS, javascript, jQuery )&lt;/p&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;Responsive Web&lt;/li&gt;
+&lt;li&gt;PHP 솔루션 데이터 적용 및 프론트엔드 작업 진행&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>메루재팬</title>
+      <link>/mall/merjapan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/mall/merjapan/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://merjapan.com&#34; target=&#34;_blank&#34;&gt;merjapan.com&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
 &lt;p&gt;( HTML, CSS, SASS, javascript, jQuery )&lt;/p&gt;
@@ -309,10 +743,27 @@
     
     <item>
       <title>픽스프라이스</title>
-      <link>/portfolio/fixprice/</link>
+      <link>/all/fixprice/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/portfolio/fixprice/</guid>
+      <guid>/all/fixprice/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://fixprice.co.kr&#34; target=&#34;_blank&#34;&gt;fixprice.co.kr&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
+&lt;p&gt;( HTML, CSS, SASS, javascript, jQuery )&lt;/p&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;Responsive Web&lt;/li&gt;
+&lt;li&gt;PHP 솔루션 데이터 적용 및 프론트엔드 작업 진행&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>픽스프라이스</title>
+      <link>/mall/fixprice/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/mall/fixprice/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://fixprice.co.kr&#34; target=&#34;_blank&#34;&gt;fixprice.co.kr&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
 &lt;p&gt;( HTML, CSS, SASS, javascript, jQuery )&lt;/p&gt;
@@ -326,10 +777,27 @@
     
     <item>
       <title>만능직구</title>
-      <link>/portfolio/mng9/</link>
+      <link>/all/mng9/</link>
       <pubDate>Sun, 05 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>/portfolio/mng9/</guid>
+      <guid>/all/mng9/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://mng9.kr&#34; target=&#34;_blank&#34;&gt;mng9.kr&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
+&lt;p&gt;( HTML, CSS, SASS, javascript, jQuery )&lt;/p&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;Responsive Web&lt;/li&gt;
+&lt;li&gt;PHP 솔루션 데이터 적용 및 프론트엔드 작업 진행&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>만능직구</title>
+      <link>/mall/mng9/</link>
+      <pubDate>Sun, 05 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/mall/mng9/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://mng9.kr&#34; target=&#34;_blank&#34;&gt;mng9.kr&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
 &lt;p&gt;( HTML, CSS, SASS, javascript, jQuery )&lt;/p&gt;
@@ -343,10 +811,10 @@
     
     <item>
       <title>CNL Korea</title>
-      <link>/portfolio/cnlkorea/</link>
+      <link>/all/cnlkorea/</link>
       <pubDate>Thu, 05 Nov 2020 19:56:17 +0530</pubDate>
       
-      <guid>/portfolio/cnlkorea/</guid>
+      <guid>/all/cnlkorea/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.cnlint.co.kr&#34; target=&#34;_blank&#34;&gt;cnlint.co.kr&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
 &lt;p&gt;( HTML, CSS, SASS, javascript, jQuery )&lt;/p&gt;
@@ -358,11 +826,88 @@
     </item>
     
     <item>
-      <title>ageLOC me</title>
-      <link>/portfolio/agelocme/</link>
+      <title>CNL Korea</title>
+      <link>/site/cnlkorea/</link>
       <pubDate>Thu, 05 Nov 2020 19:56:17 +0530</pubDate>
       
-      <guid>/portfolio/agelocme/</guid>
+      <guid>/site/cnlkorea/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.cnlint.co.kr&#34; target=&#34;_blank&#34;&gt;cnlint.co.kr&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
+&lt;p&gt;( HTML, CSS, SASS, javascript, jQuery )&lt;/p&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;Responsive Web&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Pig Dice Game</title>
+      <link>/etc/pigdicegame/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/etc/pigdicegame/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://codepen.io/jjkeb/pen/yLzBNJG&#34; target=&#34;_blank&#34;&gt;Pig Dice Game - codepen&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;( HTML, CSS, Vanilla JS )&lt;/p&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;Pig Dice Game 룰을 이용한 간단한 게임&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>약수 공약수 계산기</title>
+      <link>/etc/divisor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/etc/divisor/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://codepen.io/jjkeb/pen/mReYoN&#34; target=&#34;_blank&#34;&gt;약수 공약수 계산기 - codepen&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;( HTML, CSS, javascript, jQuery )&lt;/p&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;다중 숫자 입력후 약수와 공약수를 계산&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>에어비앤비체 - 한글 난독화</title>
+      <link>/etc/airbnb/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/etc/airbnb/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://codepen.io/jjkeb/pen/rNzEdBy&#34; target=&#34;_blank&#34;&gt;한글 난독화 변환 - codepen&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;( HTML, CSS, Vanilla JS )&lt;/p&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;한국인만 아는 단순한 에어비엔비체 변환툴&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ageLOC me</title>
+      <link>/all/agelocme/</link>
+      <pubDate>Thu, 05 Nov 2020 19:56:17 +0530</pubDate>
+      
+      <guid>/all/agelocme/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
+&lt;p&gt;( HTML, CSS, SASS, javascript, jQuery )&lt;/p&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;Responsive Web&lt;/li&gt;
+&lt;li&gt;에이지락미 제품 프로모션 사이트&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ageLOC me</title>
+      <link>/site/agelocme/</link>
+      <pubDate>Thu, 05 Nov 2020 19:56:17 +0530</pubDate>
+      
+      <guid>/site/agelocme/</guid>
       <description>&lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
 &lt;p&gt;( HTML, CSS, SASS, javascript, jQuery )&lt;/p&gt;
 &lt;hr&gt;
@@ -375,10 +920,26 @@
     
     <item>
       <title>ageLOC me Tag 이벤트</title>
-      <link>/portfolio/agelocme_event_1/</link>
+      <link>/all/agelocme_event_1/</link>
       <pubDate>Thu, 05 Nov 2020 19:56:17 +0530</pubDate>
       
-      <guid>/portfolio/agelocme_event_1/</guid>
+      <guid>/all/agelocme_event_1/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
+&lt;p&gt;( HTML, CSS, SASS, javascript, jQuery )&lt;/p&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;Responsive Web&lt;/li&gt;
+&lt;li&gt;응모 팝업 및 태그 인터렉션 관련 SCRIPT 작업&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ageLOC me Tag 이벤트</title>
+      <link>/promotion/agelocme_event_1/</link>
+      <pubDate>Thu, 05 Nov 2020 19:56:17 +0530</pubDate>
+      
+      <guid>/promotion/agelocme_event_1/</guid>
       <description>&lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
 &lt;p&gt;( HTML, CSS, SASS, javascript, jQuery )&lt;/p&gt;
 &lt;hr&gt;
@@ -391,10 +952,26 @@
     
     <item>
       <title>ageLOC me 공유 이벤트 1 ~ 4차</title>
-      <link>/portfolio/agelocme_event_4/</link>
+      <link>/all/agelocme_event_4/</link>
       <pubDate>Thu, 05 Nov 2020 19:56:17 +0530</pubDate>
       
-      <guid>/portfolio/agelocme_event_4/</guid>
+      <guid>/all/agelocme_event_4/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
+&lt;p&gt;( HTML, CSS, SASS, javascript, jQuery )&lt;/p&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;Responsive Web&lt;/li&gt;
+&lt;li&gt;응모 팝업 및 태그 인터렉션 관련 SCRIPT 작업&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ageLOC me 공유 이벤트 1 ~ 4차</title>
+      <link>/promotion/agelocme_event_4/</link>
+      <pubDate>Thu, 05 Nov 2020 19:56:17 +0530</pubDate>
+      
+      <guid>/promotion/agelocme_event_4/</guid>
       <description>&lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
 &lt;p&gt;( HTML, CSS, SASS, javascript, jQuery )&lt;/p&gt;
 &lt;hr&gt;
@@ -407,10 +984,25 @@
     
     <item>
       <title>BIUM (비움)</title>
-      <link>/portfolio/bium/</link>
+      <link>/all/bium/</link>
       <pubDate>Thu, 05 Nov 2020 19:56:17 +0530</pubDate>
       
-      <guid>/portfolio/bium/</guid>
+      <guid>/all/bium/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
+&lt;p&gt;( HTML, CSS, SASS, javascript, jQuery )&lt;/p&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;Responsive Web&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>BIUM (비움)</title>
+      <link>/site/bium/</link>
+      <pubDate>Thu, 05 Nov 2020 19:56:17 +0530</pubDate>
+      
+      <guid>/site/bium/</guid>
       <description>&lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
 &lt;p&gt;( HTML, CSS, SASS, javascript, jQuery )&lt;/p&gt;
 &lt;hr&gt;
@@ -422,10 +1014,26 @@
     
     <item>
       <title>Brand DENTEK</title>
-      <link>/portfolio/dentek/</link>
+      <link>/all/dentek/</link>
       <pubDate>Thu, 05 Nov 2020 19:56:17 +0530</pubDate>
       
-      <guid>/portfolio/dentek/</guid>
+      <guid>/all/dentek/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.dentekkorea.co.kr&#34; target=&#34;_blank&#34;&gt;dentekkorea.co.kr&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
+&lt;p&gt;( HTML, CSS, SASS, javascript, jQuery )&lt;/p&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;Responsive Web&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Brand DENTEK</title>
+      <link>/site/dentek/</link>
+      <pubDate>Thu, 05 Nov 2020 19:56:17 +0530</pubDate>
+      
+      <guid>/site/dentek/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.dentekkorea.co.kr&#34; target=&#34;_blank&#34;&gt;dentekkorea.co.kr&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
 &lt;p&gt;( HTML, CSS, SASS, javascript, jQuery )&lt;/p&gt;
@@ -438,10 +1046,26 @@
     
     <item>
       <title>Brand Orabrush</title>
-      <link>/portfolio/orabrush/</link>
+      <link>/all/orabrush/</link>
       <pubDate>Thu, 05 Nov 2020 19:56:17 +0530</pubDate>
       
-      <guid>/portfolio/orabrush/</guid>
+      <guid>/all/orabrush/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.orabrush.co.kr&#34; target=&#34;_blank&#34;&gt;orabrush.co.kr&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
+&lt;p&gt;( HTML, CSS, SASS, javascript, jQuery )&lt;/p&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;Responsive Web&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Brand Orabrush</title>
+      <link>/site/orabrush/</link>
+      <pubDate>Thu, 05 Nov 2020 19:56:17 +0530</pubDate>
+      
+      <guid>/site/orabrush/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.orabrush.co.kr&#34; target=&#34;_blank&#34;&gt;orabrush.co.kr&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
 &lt;p&gt;( HTML, CSS, SASS, javascript, jQuery )&lt;/p&gt;
@@ -454,10 +1078,26 @@
     
     <item>
       <title>Brand RealSHADES</title>
-      <link>/portfolio/realkids/</link>
+      <link>/all/realkids/</link>
       <pubDate>Thu, 05 Nov 2020 19:56:17 +0530</pubDate>
       
-      <guid>/portfolio/realkids/</guid>
+      <guid>/all/realkids/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.realkidskorea.co.kr&#34; target=&#34;_blank&#34;&gt;realkidskorea.co.kr&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
+&lt;p&gt;( HTML, CSS, SASS, javascript, jQuery )&lt;/p&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;Responsive Web&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Brand RealSHADES</title>
+      <link>/site/realkids/</link>
+      <pubDate>Thu, 05 Nov 2020 19:56:17 +0530</pubDate>
+      
+      <guid>/site/realkids/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.realkidskorea.co.kr&#34; target=&#34;_blank&#34;&gt;realkidskorea.co.kr&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
 &lt;p&gt;( HTML, CSS, SASS, javascript, jQuery )&lt;/p&gt;
@@ -470,10 +1110,26 @@
     
     <item>
       <title>알케이알 SNS</title>
-      <link>/portfolio/rkr_sns/</link>
+      <link>/all/rkr_sns/</link>
       <pubDate>Thu, 05 Nov 2020 19:56:17 +0530</pubDate>
       
-      <guid>/portfolio/rkr_sns/</guid>
+      <guid>/all/rkr_sns/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://rookiisns.com&#34; target=&#34;_blank&#34;&gt;rookiisns.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
+&lt;p&gt;( HTML, CSS, SASS, javascript, jQuery )&lt;/p&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;Responsive Web&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>알케이알 SNS</title>
+      <link>/site/rkr_sns/</link>
+      <pubDate>Thu, 05 Nov 2020 19:56:17 +0530</pubDate>
+      
+      <guid>/site/rkr_sns/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://rookiisns.com&#34; target=&#34;_blank&#34;&gt;rookiisns.com&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
 &lt;p&gt;( HTML, CSS, SASS, javascript, jQuery )&lt;/p&gt;
@@ -486,10 +1142,25 @@
     
     <item>
       <title>크라운산도 영상이벤트</title>
-      <link>/portfolio/crown_sando/</link>
+      <link>/all/crown_sando/</link>
       <pubDate>Thu, 05 Nov 2020 19:56:17 +0530</pubDate>
       
-      <guid>/portfolio/crown_sando/</guid>
+      <guid>/all/crown_sando/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
+&lt;p&gt;( HTML, CSS, SASS, javascript, jQuery )&lt;/p&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;Responsive Web&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>크라운산도 영상이벤트</title>
+      <link>/promotion/crown_sando/</link>
+      <pubDate>Thu, 05 Nov 2020 19:56:17 +0530</pubDate>
+      
+      <guid>/promotion/crown_sando/</guid>
       <description>&lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
 &lt;p&gt;( HTML, CSS, SASS, javascript, jQuery )&lt;/p&gt;
 &lt;hr&gt;
@@ -501,10 +1172,25 @@
     
     <item>
       <title>96NY</title>
-      <link>/portfolio/96ny/</link>
+      <link>/all/96ny/</link>
       <pubDate>Thu, 05 Nov 2020 19:56:17 +0530</pubDate>
       
-      <guid>/portfolio/96ny/</guid>
+      <guid>/all/96ny/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
+&lt;p&gt;( HTML, CSS, LESS, javascript, jQuery )&lt;/p&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;Web, Mobile&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>96NY</title>
+      <link>/site/96ny/</link>
+      <pubDate>Thu, 05 Nov 2020 19:56:17 +0530</pubDate>
+      
+      <guid>/site/96ny/</guid>
       <description>&lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
 &lt;p&gt;( HTML, CSS, LESS, javascript, jQuery )&lt;/p&gt;
 &lt;hr&gt;
@@ -516,10 +1202,25 @@
     
     <item>
       <title>ANA CAPRI</title>
-      <link>/portfolio/ana/</link>
+      <link>/all/ana/</link>
       <pubDate>Thu, 05 Nov 2020 19:56:17 +0530</pubDate>
       
-      <guid>/portfolio/ana/</guid>
+      <guid>/all/ana/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
+&lt;p&gt;( HTML, CSS, LESS, javascript, jQuery )&lt;/p&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;Web, Mobile&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ANA CAPRI</title>
+      <link>/site/ana/</link>
+      <pubDate>Thu, 05 Nov 2020 19:56:17 +0530</pubDate>
+      
+      <guid>/site/ana/</guid>
       <description>&lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
 &lt;p&gt;( HTML, CSS, LESS, javascript, jQuery )&lt;/p&gt;
 &lt;hr&gt;
@@ -531,10 +1232,25 @@
     
     <item>
       <title>DECO</title>
-      <link>/portfolio/deco/</link>
+      <link>/all/deco/</link>
       <pubDate>Thu, 05 Nov 2020 19:56:17 +0530</pubDate>
       
-      <guid>/portfolio/deco/</guid>
+      <guid>/all/deco/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
+&lt;p&gt;( HTML, CSS, SASS, javascript, jQuery )&lt;/p&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;Web, Mobile&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>DECO</title>
+      <link>/site/deco/</link>
+      <pubDate>Thu, 05 Nov 2020 19:56:17 +0530</pubDate>
+      
+      <guid>/site/deco/</guid>
       <description>&lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
 &lt;p&gt;( HTML, CSS, SASS, javascript, jQuery )&lt;/p&gt;
 &lt;hr&gt;
@@ -546,10 +1262,25 @@
     
     <item>
       <title>DECO&amp;E</title>
-      <link>/portfolio/decone/</link>
+      <link>/all/decone/</link>
       <pubDate>Thu, 05 Nov 2020 19:56:17 +0530</pubDate>
       
-      <guid>/portfolio/decone/</guid>
+      <guid>/all/decone/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
+&lt;p&gt;( HTML, CSS, SASS, javascript, jQuery )&lt;/p&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;Web, Mobile&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>DECO&amp;E</title>
+      <link>/site/decone/</link>
+      <pubDate>Thu, 05 Nov 2020 19:56:17 +0530</pubDate>
+      
+      <guid>/site/decone/</guid>
       <description>&lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
 &lt;p&gt;( HTML, CSS, SASS, javascript, jQuery )&lt;/p&gt;
 &lt;hr&gt;
@@ -561,10 +1292,25 @@
     
     <item>
       <title>GGIO2 틀린그림찾기 이벤트</title>
-      <link>/portfolio/ggio2_event/</link>
+      <link>/all/ggio2_event/</link>
       <pubDate>Thu, 05 Nov 2020 19:56:17 +0530</pubDate>
       
-      <guid>/portfolio/ggio2_event/</guid>
+      <guid>/all/ggio2_event/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
+&lt;p&gt;( HTML, CSS, SASS, javascript, jQuery )&lt;/p&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;Responsive Web&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>GGIO2 틀린그림찾기 이벤트</title>
+      <link>/promotion/ggio2_event/</link>
+      <pubDate>Thu, 05 Nov 2020 19:56:17 +0530</pubDate>
+      
+      <guid>/promotion/ggio2_event/</guid>
       <description>&lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
 &lt;p&gt;( HTML, CSS, SASS, javascript, jQuery )&lt;/p&gt;
 &lt;hr&gt;
@@ -576,10 +1322,25 @@
     
     <item>
       <title>GGIO2</title>
-      <link>/portfolio/ggio2/</link>
+      <link>/all/ggio2/</link>
       <pubDate>Thu, 05 Nov 2020 19:56:17 +0530</pubDate>
       
-      <guid>/portfolio/ggio2/</guid>
+      <guid>/all/ggio2/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
+&lt;p&gt;( HTML, CSS, SASS, javascript, jQuery )&lt;/p&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;Web, Mobile&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>GGIO2</title>
+      <link>/site/ggio2/</link>
+      <pubDate>Thu, 05 Nov 2020 19:56:17 +0530</pubDate>
+      
+      <guid>/site/ggio2/</guid>
       <description>&lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
 &lt;p&gt;( HTML, CSS, SASS, javascript, jQuery )&lt;/p&gt;
 &lt;hr&gt;
@@ -591,10 +1352,25 @@
     
     <item>
       <title>배정장학회(APRO 그룹)</title>
-      <link>/portfolio/apro/</link>
+      <link>/all/apro/</link>
       <pubDate>Thu, 05 Nov 2020 19:44:32 +0530</pubDate>
       
-      <guid>/portfolio/apro/</guid>
+      <guid>/all/apro/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
+&lt;p&gt;( HTML, CSS, SASS, javascript, jQuery )&lt;/p&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;Web&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>배정장학회(APRO 그룹)</title>
+      <link>/site/apro/</link>
+      <pubDate>Thu, 05 Nov 2020 19:44:32 +0530</pubDate>
+      
+      <guid>/site/apro/</guid>
       <description>&lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
 &lt;p&gt;( HTML, CSS, SASS, javascript, jQuery )&lt;/p&gt;
 &lt;hr&gt;
@@ -606,10 +1382,25 @@
     
     <item>
       <title>Shiseido 시세이도</title>
-      <link>/portfolio/shiseido/</link>
+      <link>/all/shiseido/</link>
       <pubDate>Thu, 05 Nov 2020 19:56:17 +0530</pubDate>
       
-      <guid>/portfolio/shiseido/</guid>
+      <guid>/all/shiseido/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
+&lt;p&gt;( HTML, CSS, LESS, javascript, jQuery )&lt;/p&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;Web&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Shiseido 시세이도</title>
+      <link>/site/shiseido/</link>
+      <pubDate>Thu, 05 Nov 2020 19:56:17 +0530</pubDate>
+      
+      <guid>/site/shiseido/</guid>
       <description>&lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
 &lt;p&gt;( HTML, CSS, LESS, javascript, jQuery )&lt;/p&gt;
 &lt;hr&gt;
@@ -621,10 +1412,25 @@
     
     <item>
       <title>넷솔테크</title>
-      <link>/portfolio/netsoul/</link>
+      <link>/all/netsoul/</link>
       <pubDate>Thu, 05 Nov 2020 19:56:17 +0530</pubDate>
       
-      <guid>/portfolio/netsoul/</guid>
+      <guid>/all/netsoul/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
+&lt;p&gt;( HTML, CSS, SASS, javascript, jQuery )&lt;/p&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;Web, Mobile&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>넷솔테크</title>
+      <link>/site/netsoul/</link>
+      <pubDate>Thu, 05 Nov 2020 19:56:17 +0530</pubDate>
+      
+      <guid>/site/netsoul/</guid>
       <description>&lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
 &lt;p&gt;( HTML, CSS, SASS, javascript, jQuery )&lt;/p&gt;
 &lt;hr&gt;
@@ -636,10 +1442,26 @@
     
     <item>
       <title>도쿄팡야</title>
-      <link>/portfolio/tokuopanya/</link>
+      <link>/all/tokuopanya/</link>
       <pubDate>Thu, 05 Nov 2020 19:56:17 +0530</pubDate>
       
-      <guid>/portfolio/tokuopanya/</guid>
+      <guid>/all/tokuopanya/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
+&lt;p&gt;( HTML, CSS, javascript, jQuery )&lt;/p&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;Responsive Web&lt;/li&gt;
+&lt;li&gt;브랜드 홍보용 워드프레스 사이트 제작&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>도쿄팡야</title>
+      <link>/site/tokuopanya/</link>
+      <pubDate>Thu, 05 Nov 2020 19:56:17 +0530</pubDate>
+      
+      <guid>/site/tokuopanya/</guid>
       <description>&lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
 &lt;p&gt;( HTML, CSS, javascript, jQuery )&lt;/p&gt;
 &lt;hr&gt;
@@ -652,10 +1474,25 @@
     
     <item>
       <title>스톤핸지</title>
-      <link>/portfolio/stonehenge/</link>
+      <link>/all/stonehenge/</link>
       <pubDate>Thu, 05 Nov 2020 19:56:17 +0530</pubDate>
       
-      <guid>/portfolio/stonehenge/</guid>
+      <guid>/all/stonehenge/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
+&lt;p&gt;( HTML, CSS, LESS, javascript, jQuery )&lt;/p&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;Web&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>스톤핸지</title>
+      <link>/promotion/stonehenge/</link>
+      <pubDate>Thu, 05 Nov 2020 19:56:17 +0530</pubDate>
+      
+      <guid>/promotion/stonehenge/</guid>
       <description>&lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
 &lt;p&gt;( HTML, CSS, LESS, javascript, jQuery )&lt;/p&gt;
 &lt;hr&gt;
@@ -667,10 +1504,25 @@
     
     <item>
       <title>웹스(weps) 웅진씽크빅</title>
-      <link>/portfolio/weps/</link>
+      <link>/all/weps/</link>
       <pubDate>Thu, 05 Nov 2020 19:56:17 +0530</pubDate>
       
-      <guid>/portfolio/weps/</guid>
+      <guid>/all/weps/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
+&lt;p&gt;( HTML, CSS, LESS)&lt;/p&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;Tablet&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>웹스(weps) 웅진씽크빅</title>
+      <link>/site/weps/</link>
+      <pubDate>Thu, 05 Nov 2020 19:56:17 +0530</pubDate>
+      
+      <guid>/site/weps/</guid>
       <description>&lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
 &lt;p&gt;( HTML, CSS, LESS)&lt;/p&gt;
 &lt;hr&gt;
@@ -682,10 +1534,25 @@
     
     <item>
       <title>중소기업청 주관 실패사례 공모전</title>
-      <link>/portfolio/rechallenge2014/</link>
+      <link>/all/rechallenge2014/</link>
       <pubDate>Thu, 05 Nov 2020 19:56:17 +0530</pubDate>
       
-      <guid>/portfolio/rechallenge2014/</guid>
+      <guid>/all/rechallenge2014/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
+&lt;p&gt;( HTML, CSS, SASS, javascript, jQuery )&lt;/p&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;Web&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>중소기업청 주관 실패사례 공모전</title>
+      <link>/promotion/rechallenge2014/</link>
+      <pubDate>Thu, 05 Nov 2020 19:56:17 +0530</pubDate>
+      
+      <guid>/promotion/rechallenge2014/</guid>
       <description>&lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
 &lt;p&gt;( HTML, CSS, SASS, javascript, jQuery )&lt;/p&gt;
 &lt;hr&gt;
@@ -697,10 +1564,25 @@
     
     <item>
       <title>아프로파이낸셜 그룹 LHSS</title>
-      <link>/portfolio/lhss/</link>
+      <link>/all/lhss/</link>
       <pubDate>Thu, 05 Nov 2020 19:44:32 +0530</pubDate>
       
-      <guid>/portfolio/lhss/</guid>
+      <guid>/all/lhss/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
+&lt;p&gt;( HTML, CSS, SASS, javascript, jQuery )&lt;/p&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;Web&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>아프로파이낸셜 그룹 LHSS</title>
+      <link>/site/lhss/</link>
+      <pubDate>Thu, 05 Nov 2020 19:44:32 +0530</pubDate>
+      
+      <guid>/site/lhss/</guid>
       <description>&lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
 &lt;p&gt;( HTML, CSS, SASS, javascript, jQuery )&lt;/p&gt;
 &lt;hr&gt;
@@ -712,10 +1594,25 @@
     
     <item>
       <title>카맨인터내셔날</title>
-      <link>/portfolio/carman/</link>
+      <link>/all/carman/</link>
       <pubDate>Thu, 05 Nov 2020 19:44:32 +0530</pubDate>
       
-      <guid>/portfolio/carman/</guid>
+      <guid>/all/carman/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
+&lt;p&gt;( HTML, CSS, javascript, jQuery )&lt;/p&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;Web&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>카맨인터내셔날</title>
+      <link>/site/carman/</link>
+      <pubDate>Thu, 05 Nov 2020 19:44:32 +0530</pubDate>
+      
+      <guid>/site/carman/</guid>
       <description>&lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
 &lt;p&gt;( HTML, CSS, javascript, jQuery )&lt;/p&gt;
 &lt;hr&gt;
@@ -727,10 +1624,26 @@
     
     <item>
       <title>규제정보포털</title>
-      <link>/portfolio/better/</link>
+      <link>/all/better/</link>
       <pubDate>Thu, 05 Nov 2020 19:41:01 +0530</pubDate>
       
-      <guid>/portfolio/better/</guid>
+      <guid>/all/better/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://better.go.kr&#34; target=&#34;_blank&#34;&gt;better.go.kr&lt;/a&gt; 1세대&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
+&lt;p&gt;( HTML, CSS, LESS, javascript, jQuery )&lt;/p&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;Web&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>규제정보포털</title>
+      <link>/site/better/</link>
+      <pubDate>Thu, 05 Nov 2020 19:41:01 +0530</pubDate>
+      
+      <guid>/site/better/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://better.go.kr&#34; target=&#34;_blank&#34;&gt;better.go.kr&lt;/a&gt; 1세대&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일, 스크립트&lt;/p&gt;
 &lt;p&gt;( HTML, CSS, LESS, javascript, jQuery )&lt;/p&gt;
@@ -743,10 +1656,26 @@
     
     <item>
       <title>NICE RMS 웹사이트</title>
-      <link>/portfolio/nice_rms/</link>
+      <link>/all/nice_rms/</link>
       <pubDate>Thu, 05 Nov 2020 18:25:22 +0530</pubDate>
       
-      <guid>/portfolio/nice_rms/</guid>
+      <guid>/all/nice_rms/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일&lt;/p&gt;
+&lt;p&gt;( HTML, CSS )&lt;/p&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;Web&lt;/li&gt;
+&lt;li&gt;NICE RMS 사용자 WEB&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>NICE RMS 웹사이트</title>
+      <link>/site/nice_rms/</link>
+      <pubDate>Thu, 05 Nov 2020 18:25:22 +0530</pubDate>
+      
+      <guid>/site/nice_rms/</guid>
       <description>&lt;p&gt;&lt;strong&gt;담당파트&lt;/strong&gt; - 마크업, 스타일&lt;/p&gt;
 &lt;p&gt;( HTML, CSS )&lt;/p&gt;
 &lt;hr&gt;

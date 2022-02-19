@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Etcs on portfolio</title>
+    <link>/etc/</link>
+    <description>Recent content in Etcs on portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko</language><atom:link href="/etc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hacker News - React</title>
+      <link>/etc/hacker/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/etc/hacker/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://romantic-kowalevski-01c76e.netlify.app/&#34; target=&#34;_blank&#34;&gt;Hacker News&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;( React, HTML, CSS, javascript )&lt;/p&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;Mini Project&lt;/li&gt;
+&lt;li&gt;Hacker News Api 활용하여 React 로 작업&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Pig Dice Game</title>
+      <link>/etc/pigdicegame/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/etc/pigdicegame/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://codepen.io/jjkeb/pen/yLzBNJG&#34; target=&#34;_blank&#34;&gt;Pig Dice Game - codepen&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;( HTML, CSS, Vanilla JS )&lt;/p&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;Pig Dice Game 룰을 이용한 간단한 게임&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>약수 공약수 계산기</title>
+      <link>/etc/divisor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/etc/divisor/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://codepen.io/jjkeb/pen/mReYoN&#34; target=&#34;_blank&#34;&gt;약수 공약수 계산기 - codepen&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;( HTML, CSS, javascript, jQuery )&lt;/p&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;다중 숫자 입력후 약수와 공약수를 계산&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>에어비앤비체 - 한글 난독화</title>
+      <link>/etc/airbnb/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/etc/airbnb/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://codepen.io/jjkeb/pen/rNzEdBy&#34; target=&#34;_blank&#34;&gt;한글 난독화 변환 - codepen&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;( HTML, CSS, Vanilla JS )&lt;/p&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;한국인만 아는 단순한 에어비엔비체 변환툴&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

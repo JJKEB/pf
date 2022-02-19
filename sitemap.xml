@@ -2,145 +2,310 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/portfolio/bluesigncorp/</loc>
+    <loc>/all/hacker/</loc>
   </url><url>
-    <loc>/portfolio/dartking/</loc>
+    <loc>/etc/hacker/</loc>
+  </url><url>
+    <loc>/all/bluesigncorp/</loc>
+  </url><url>
+    <loc>/site/bluesigncorp/</loc>
+  </url><url>
+    <loc>/all/bnpco/</loc>
     <lastmod>2020-11-05T19:56:17+05:30</lastmod>
   </url><url>
-    <loc>/portfolio/gadam/</loc>
+    <loc>/mall/bnpco/</loc>
     <lastmod>2020-11-05T19:56:17+05:30</lastmod>
   </url><url>
-    <loc>/portfolio/onionad/</loc>
+    <loc>/all/dartking/</loc>
     <lastmod>2020-11-05T19:56:17+05:30</lastmod>
   </url><url>
-    <loc>/portfolio/unicon/</loc>
+    <loc>/site/dartking/</loc>
+    <lastmod>2020-11-05T19:56:17+05:30</lastmod>
   </url><url>
-    <loc>/portfolio/kobox/</loc>
+    <loc>/all/onionad/</loc>
+    <lastmod>2020-11-05T19:56:17+05:30</lastmod>
+  </url><url>
+    <loc>/site/onionad/</loc>
+    <lastmod>2020-11-05T19:56:17+05:30</lastmod>
+  </url><url>
+    <loc>/all/jplug/</loc>
+  </url><url>
+    <loc>/mall/jplug/</loc>
+  </url><url>
+    <loc>/all/lbkstore/</loc>
+  </url><url>
+    <loc>/mall/lbkstore/</loc>
+  </url><url>
+    <loc>/all/lbkstore_shop/</loc>
+  </url><url>
+    <loc>/mall/lbkstore_shop/</loc>
+  </url><url>
+    <loc>/all/unicon/</loc>
+  </url><url>
+    <loc>/promotion/unicon/</loc>
+  </url><url>
+    <loc>/all/ohayou/</loc>
+  </url><url>
+    <loc>/mall/ohayou/</loc>
+  </url><url>
+    <loc>/all/kobox/</loc>
     <lastmod>2021-09-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/portfolio/export_iecot/</loc>
+    <loc>/site/kobox/</loc>
     <lastmod>2021-09-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/portfolio/kaerumall/</loc>
+    <loc>/all/export_iecot/</loc>
     <lastmod>2021-09-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/portfolio/hijapan/</loc>
+    <loc>/site/export_iecot/</loc>
     <lastmod>2021-09-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/portfolio/bnpco/</loc>
-    <lastmod>2020-11-05T19:56:17+05:30</lastmod>
-  </url><url>
-    <loc>/portfolio/lg_chem/</loc>
-    <lastmod>2020-11-05T19:56:17+05:30</lastmod>
-  </url><url>
-    <loc>/portfolio/lion9/</loc>
-    <lastmod>2020-11-05T19:56:17+05:30</lastmod>
-  </url><url>
-    <loc>/portfolio/brotherfoodsystem/</loc>
-    <lastmod>2020-11-05T19:56:17+05:30</lastmod>
-  </url><url>
-    <loc>/portfolio/rkr/</loc>
-    <lastmod>2020-11-05T19:56:17+05:30</lastmod>
-  </url><url>
-    <loc>/portfolio/lbkstore/</loc>
-  </url><url>
-    <loc>/portfolio/lbkstore_shop/</loc>
-  </url><url>
-    <loc>/portfolio/lurebang/</loc>
-  </url><url>
-    <loc>/portfolio/merjapan/</loc>
-  </url><url>
-    <loc>/portfolio/fixprice/</loc>
-  </url><url>
-    <loc>/portfolio/mng9/</loc>
+    <loc>/all/kaerumall/</loc>
     <lastmod>2021-09-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/portfolio/cnlkorea/</loc>
+    <loc>/mall/kaerumall/</loc>
+    <lastmod>2021-09-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/all/hijapan/</loc>
+    <lastmod>2021-09-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/site/hijapan/</loc>
+    <lastmod>2021-09-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/all/gadam/</loc>
     <lastmod>2020-11-05T19:56:17+05:30</lastmod>
   </url><url>
-    <loc>/portfolio/agelocme/</loc>
+    <loc>/site/gadam/</loc>
     <lastmod>2020-11-05T19:56:17+05:30</lastmod>
   </url><url>
-    <loc>/portfolio/agelocme_event_1/</loc>
+    <loc>/all/lg_chem/</loc>
     <lastmod>2020-11-05T19:56:17+05:30</lastmod>
   </url><url>
-    <loc>/portfolio/agelocme_event_4/</loc>
+    <loc>/site/lg_chem/</loc>
     <lastmod>2020-11-05T19:56:17+05:30</lastmod>
   </url><url>
-    <loc>/portfolio/bium/</loc>
+    <loc>/all/lion9/</loc>
     <lastmod>2020-11-05T19:56:17+05:30</lastmod>
   </url><url>
-    <loc>/portfolio/dentek/</loc>
+    <loc>/mall/lion9/</loc>
     <lastmod>2020-11-05T19:56:17+05:30</lastmod>
   </url><url>
-    <loc>/portfolio/orabrush/</loc>
+    <loc>/all/brotherfoodsystem/</loc>
     <lastmod>2020-11-05T19:56:17+05:30</lastmod>
   </url><url>
-    <loc>/portfolio/realkids/</loc>
+    <loc>/site/brotherfoodsystem/</loc>
     <lastmod>2020-11-05T19:56:17+05:30</lastmod>
   </url><url>
-    <loc>/portfolio/rkr_sns/</loc>
+    <loc>/all/rkr/</loc>
     <lastmod>2020-11-05T19:56:17+05:30</lastmod>
   </url><url>
-    <loc>/portfolio/crown_sando/</loc>
+    <loc>/site/rkr/</loc>
     <lastmod>2020-11-05T19:56:17+05:30</lastmod>
   </url><url>
-    <loc>/portfolio/96ny/</loc>
+    <loc>/all/dreamporter/</loc>
+  </url><url>
+    <loc>/site/dreamporter/</loc>
+  </url><url>
+    <loc>/all/lurebang/</loc>
+  </url><url>
+    <loc>/mall/lurebang/</loc>
+  </url><url>
+    <loc>/all/merjapan/</loc>
+  </url><url>
+    <loc>/mall/merjapan/</loc>
+  </url><url>
+    <loc>/all/fixprice/</loc>
+  </url><url>
+    <loc>/mall/fixprice/</loc>
+  </url><url>
+    <loc>/all/mng9/</loc>
+    <lastmod>2021-09-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/mall/mng9/</loc>
+    <lastmod>2021-09-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/all/cnlkorea/</loc>
     <lastmod>2020-11-05T19:56:17+05:30</lastmod>
   </url><url>
-    <loc>/portfolio/ana/</loc>
+    <loc>/site/cnlkorea/</loc>
     <lastmod>2020-11-05T19:56:17+05:30</lastmod>
   </url><url>
-    <loc>/portfolio/deco/</loc>
+    <loc>/etc/pigdicegame/</loc>
+  </url><url>
+    <loc>/etc/divisor/</loc>
+  </url><url>
+    <loc>/etc/airbnb/</loc>
+  </url><url>
+    <loc>/all/agelocme/</loc>
     <lastmod>2020-11-05T19:56:17+05:30</lastmod>
   </url><url>
-    <loc>/portfolio/decone/</loc>
+    <loc>/site/agelocme/</loc>
     <lastmod>2020-11-05T19:56:17+05:30</lastmod>
   </url><url>
-    <loc>/portfolio/ggio2_event/</loc>
+    <loc>/all/agelocme_event_1/</loc>
     <lastmod>2020-11-05T19:56:17+05:30</lastmod>
   </url><url>
-    <loc>/portfolio/ggio2/</loc>
+    <loc>/promotion/agelocme_event_1/</loc>
     <lastmod>2020-11-05T19:56:17+05:30</lastmod>
   </url><url>
-    <loc>/portfolio/apro/</loc>
+    <loc>/all/agelocme_event_4/</loc>
+    <lastmod>2020-11-05T19:56:17+05:30</lastmod>
+  </url><url>
+    <loc>/promotion/agelocme_event_4/</loc>
+    <lastmod>2020-11-05T19:56:17+05:30</lastmod>
+  </url><url>
+    <loc>/all/bium/</loc>
+    <lastmod>2020-11-05T19:56:17+05:30</lastmod>
+  </url><url>
+    <loc>/site/bium/</loc>
+    <lastmod>2020-11-05T19:56:17+05:30</lastmod>
+  </url><url>
+    <loc>/all/dentek/</loc>
+    <lastmod>2020-11-05T19:56:17+05:30</lastmod>
+  </url><url>
+    <loc>/site/dentek/</loc>
+    <lastmod>2020-11-05T19:56:17+05:30</lastmod>
+  </url><url>
+    <loc>/all/orabrush/</loc>
+    <lastmod>2020-11-05T19:56:17+05:30</lastmod>
+  </url><url>
+    <loc>/site/orabrush/</loc>
+    <lastmod>2020-11-05T19:56:17+05:30</lastmod>
+  </url><url>
+    <loc>/all/realkids/</loc>
+    <lastmod>2020-11-05T19:56:17+05:30</lastmod>
+  </url><url>
+    <loc>/site/realkids/</loc>
+    <lastmod>2020-11-05T19:56:17+05:30</lastmod>
+  </url><url>
+    <loc>/all/rkr_sns/</loc>
+    <lastmod>2020-11-05T19:56:17+05:30</lastmod>
+  </url><url>
+    <loc>/site/rkr_sns/</loc>
+    <lastmod>2020-11-05T19:56:17+05:30</lastmod>
+  </url><url>
+    <loc>/all/crown_sando/</loc>
+    <lastmod>2020-11-05T19:56:17+05:30</lastmod>
+  </url><url>
+    <loc>/promotion/crown_sando/</loc>
+    <lastmod>2020-11-05T19:56:17+05:30</lastmod>
+  </url><url>
+    <loc>/all/96ny/</loc>
+    <lastmod>2020-11-05T19:56:17+05:30</lastmod>
+  </url><url>
+    <loc>/site/96ny/</loc>
+    <lastmod>2020-11-05T19:56:17+05:30</lastmod>
+  </url><url>
+    <loc>/all/ana/</loc>
+    <lastmod>2020-11-05T19:56:17+05:30</lastmod>
+  </url><url>
+    <loc>/site/ana/</loc>
+    <lastmod>2020-11-05T19:56:17+05:30</lastmod>
+  </url><url>
+    <loc>/all/deco/</loc>
+    <lastmod>2020-11-05T19:56:17+05:30</lastmod>
+  </url><url>
+    <loc>/site/deco/</loc>
+    <lastmod>2020-11-05T19:56:17+05:30</lastmod>
+  </url><url>
+    <loc>/all/decone/</loc>
+    <lastmod>2020-11-05T19:56:17+05:30</lastmod>
+  </url><url>
+    <loc>/site/decone/</loc>
+    <lastmod>2020-11-05T19:56:17+05:30</lastmod>
+  </url><url>
+    <loc>/all/ggio2_event/</loc>
+    <lastmod>2020-11-05T19:56:17+05:30</lastmod>
+  </url><url>
+    <loc>/promotion/ggio2_event/</loc>
+    <lastmod>2020-11-05T19:56:17+05:30</lastmod>
+  </url><url>
+    <loc>/all/ggio2/</loc>
+    <lastmod>2020-11-05T19:56:17+05:30</lastmod>
+  </url><url>
+    <loc>/site/ggio2/</loc>
+    <lastmod>2020-11-05T19:56:17+05:30</lastmod>
+  </url><url>
+    <loc>/all/apro/</loc>
     <lastmod>2020-11-05T19:44:32+05:30</lastmod>
   </url><url>
-    <loc>/portfolio/shiseido/</loc>
-    <lastmod>2020-11-05T19:56:17+05:30</lastmod>
-  </url><url>
-    <loc>/portfolio/netsoul/</loc>
-    <lastmod>2020-11-05T19:56:17+05:30</lastmod>
-  </url><url>
-    <loc>/portfolio/tokuopanya/</loc>
-    <lastmod>2020-11-05T19:56:17+05:30</lastmod>
-  </url><url>
-    <loc>/portfolio/stonehenge/</loc>
-    <lastmod>2020-11-05T19:56:17+05:30</lastmod>
-  </url><url>
-    <loc>/portfolio/weps/</loc>
-    <lastmod>2020-11-05T19:56:17+05:30</lastmod>
-  </url><url>
-    <loc>/portfolio/rechallenge2014/</loc>
-    <lastmod>2020-11-05T19:56:17+05:30</lastmod>
-  </url><url>
-    <loc>/portfolio/lhss/</loc>
+    <loc>/site/apro/</loc>
     <lastmod>2020-11-05T19:44:32+05:30</lastmod>
   </url><url>
-    <loc>/portfolio/carman/</loc>
+    <loc>/all/shiseido/</loc>
+    <lastmod>2020-11-05T19:56:17+05:30</lastmod>
+  </url><url>
+    <loc>/site/shiseido/</loc>
+    <lastmod>2020-11-05T19:56:17+05:30</lastmod>
+  </url><url>
+    <loc>/all/netsoul/</loc>
+    <lastmod>2020-11-05T19:56:17+05:30</lastmod>
+  </url><url>
+    <loc>/site/netsoul/</loc>
+    <lastmod>2020-11-05T19:56:17+05:30</lastmod>
+  </url><url>
+    <loc>/all/tokuopanya/</loc>
+    <lastmod>2020-11-05T19:56:17+05:30</lastmod>
+  </url><url>
+    <loc>/site/tokuopanya/</loc>
+    <lastmod>2020-11-05T19:56:17+05:30</lastmod>
+  </url><url>
+    <loc>/all/stonehenge/</loc>
+    <lastmod>2020-11-05T19:56:17+05:30</lastmod>
+  </url><url>
+    <loc>/promotion/stonehenge/</loc>
+    <lastmod>2020-11-05T19:56:17+05:30</lastmod>
+  </url><url>
+    <loc>/all/weps/</loc>
+    <lastmod>2020-11-05T19:56:17+05:30</lastmod>
+  </url><url>
+    <loc>/site/weps/</loc>
+    <lastmod>2020-11-05T19:56:17+05:30</lastmod>
+  </url><url>
+    <loc>/all/rechallenge2014/</loc>
+    <lastmod>2020-11-05T19:56:17+05:30</lastmod>
+  </url><url>
+    <loc>/promotion/rechallenge2014/</loc>
+    <lastmod>2020-11-05T19:56:17+05:30</lastmod>
+  </url><url>
+    <loc>/all/lhss/</loc>
     <lastmod>2020-11-05T19:44:32+05:30</lastmod>
   </url><url>
-    <loc>/portfolio/better/</loc>
+    <loc>/site/lhss/</loc>
+    <lastmod>2020-11-05T19:44:32+05:30</lastmod>
+  </url><url>
+    <loc>/all/carman/</loc>
+    <lastmod>2020-11-05T19:44:32+05:30</lastmod>
+  </url><url>
+    <loc>/site/carman/</loc>
+    <lastmod>2020-11-05T19:44:32+05:30</lastmod>
+  </url><url>
+    <loc>/all/better/</loc>
     <lastmod>2020-11-05T19:41:01+05:30</lastmod>
   </url><url>
-    <loc>/portfolio/nice_rms/</loc>
+    <loc>/site/better/</loc>
+    <lastmod>2020-11-05T19:41:01+05:30</lastmod>
+  </url><url>
+    <loc>/all/nice_rms/</loc>
     <lastmod>2020-11-05T18:25:22+05:30</lastmod>
+  </url><url>
+    <loc>/site/nice_rms/</loc>
+    <lastmod>2020-11-05T18:25:22+05:30</lastmod>
+  </url><url>
+    <loc>/all/</loc>
+    <lastmod>2021-09-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/mall/</loc>
+    <lastmod>2021-09-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/</loc>
     <lastmod>2021-09-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/portfolio/</loc>
+    <loc>/site/</loc>
     <lastmod>2021-09-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/promotion/</loc>
+    <lastmod>2020-11-05T19:56:17+05:30</lastmod>
   </url><url>
     <loc>/contact/</loc>
     <lastmod>2016-11-06T13:00:25+05:30</lastmod>
@@ -149,6 +314,8 @@
     <lastmod>2016-11-05T21:05:33+05:30</lastmod>
   </url><url>
     <loc>/categories/</loc>
+  </url><url>
+    <loc>/etc/</loc>
   </url><url>
     <loc>/tags/</loc>
   </url>
